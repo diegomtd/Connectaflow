@@ -80,6 +80,7 @@ const useStyles = makeStyles((theme) => {
         : "0 24px 60px rgba(15,23,42,0.18)",
       display: "flex",
       flexDirection: "column",
+      overflow: "hidden",
     },
 
     /* ── Cabeçalho limpo / corporativo ── */
