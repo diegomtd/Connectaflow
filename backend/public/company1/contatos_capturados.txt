@@ -1,0 +1,4877 @@
+[
+  {
+    "id": "5511947390118@s.whatsapp.net",
+    "name": "Studio Dk",
+    "lid": "198079798100023@lid"
+  },
+  {
+    "id": "5511951402394@s.whatsapp.net",
+    "name": "Israel Lala Move",
+    "lid": "179873347813627@lid"
+  },
+  {
+    "id": "5511957539586@s.whatsapp.net",
+    "name": "Marsal Terno",
+    "lid": "64355907408094@lid"
+  },
+  {
+    "id": "5511971328953@s.whatsapp.net",
+    "name": "Mãe",
+    "lid": "271424937799928@lid"
+  },
+  {
+    "id": "5511933623330@s.whatsapp.net",
+    "name": "Rafaela Mixup Confeccoes",
+    "lid": "157488162816074@lid"
+  },
+  {
+    "id": "5511953542426@s.whatsapp.net",
+    "name": "Paulo Bla",
+    "lid": "98183036297331@lid"
+  },
+  {
+    "id": "5511954841738@s.whatsapp.net",
+    "name": "Distribuidor Alfandega 200",
+    "lid": "141781316407551@lid"
+  },
+  {
+    "id": "5511956903054@s.whatsapp.net",
+    "name": "Pitao ",
+    "lid": "247566344163470@lid"
+  },
+  {
+    "id": "5511998564042@s.whatsapp.net",
+    "name": "Modas Jheny & Lais",
+    "lid": "84619529564302@lid"
+  },
+  {
+    "id": "553191812602@s.whatsapp.net",
+    "name": "Selma Machado Cliente",
+    "lid": "264625836818593@lid"
+  },
+  {
+    "id": "5515991257771@s.whatsapp.net",
+    "name": "Jogers",
+    "lid": "136970936303864@lid"
+  },
+  {
+    "id": "5511981164020@s.whatsapp.net",
+    "name": "Barbara Prata GG",
+    "lid": "236515393286386@lid"
+  },
+  {
+    "id": "557193639450@s.whatsapp.net",
+    "name": "Cliente Bn- 071",
+    "lid": "216913162588225@lid"
+  },
+  {
+    "id": "5519981802225@s.whatsapp.net",
+    "name": "Françoise Cliente",
+    "lid": "220757124747475@lid"
+  },
+  {
+    "id": "5511997669100@s.whatsapp.net",
+    "name": "Vitor Centro",
+    "lid": "99557509730417@lid"
+  },
+  {
+    "id": "558597426737@s.whatsapp.net",
+    "name": "Mod_aGang Cliente",
+    "lid": "162062588182536@lid"
+  },
+  {
+    "id": "551125158231@s.whatsapp.net",
+    "name": "ULTRA VELOZ",
+    "lid": "191783325683742@lid"
+  },
+  {
+    "id": "5511984996018@s.whatsapp.net",
+    "name": "Jonathan Vn",
+    "lid": "85491475071177@lid"
+  },
+  {
+    "id": "5511933275235@s.whatsapp.net",
+    "name": "Joyce",
+    "lid": "20774958194746@lid"
+  },
+  {
+    "id": "5511952816181@s.whatsapp.net",
+    "name": "Francisca Cliente",
+    "lid": "137091396714517@lid"
+  },
+  {
+    "id": "5511990212181@s.whatsapp.net",
+    "name": "Danielly Ap",
+    "lid": "33930375909458@lid"
+  },
+  {
+    "id": "556681050913@s.whatsapp.net",
+    "name": "Marcio Biohype",
+    "lid": "114688713085041@lid"
+  },
+  {
+    "id": "5511968565545@s.whatsapp.net",
+    "name": "Nego",
+    "lid": "8340927197313@lid"
+  },
+  {
+    "id": "5513991143667@s.whatsapp.net",
+    "name": "Gabsssss  Cliente Dh",
+    "lid": "233036352360476@lid"
+  },
+  {
+    "id": "5511977690780@s.whatsapp.net",
+    "name": "Mathews Cargo Jeans Clara",
+    "lid": "85727631171784@lid"
+  },
+  {
+    "id": "5511947318805@s.whatsapp.net",
+    "name": "Int Captiva",
+    "lid": "138057562984483@lid"
+  },
+  {
+    "id": "553798034947@s.whatsapp.net",
+    "name": "Ana Lucia Cliente",
+    "lid": "184743941390353@lid"
+  },
+  {
+    "id": "5519991191354@s.whatsapp.net",
+    "name": "Fernanda And Amarelo",
+    "lid": "164458794111203@lid"
+  },
+  {
+    "id": "5511941518828@s.whatsapp.net",
+    "name": "Rota Da Onda",
+    "lid": "57118837211367@lid"
+  },
+  {
+    "id": "5519993420873@s.whatsapp.net",
+    "name": "Eliana Ferreira Cliente",
+    "lid": "52201166745753@lid"
+  },
+  {
+    "id": "5511940139470@s.whatsapp.net",
+    "name": "Cliente Gucci",
+    "lid": "9564992844020@lid"
+  },
+  {
+    "id": "5511934246265@s.whatsapp.net",
+    "name": "Daniel Colpo Programador",
+    "lid": "240410861535295@lid"
+  },
+  {
+    "id": "5511947367543@s.whatsapp.net",
+    "name": "Tiu Gilson",
+    "lid": "40003493212182@lid"
+  },
+  {
+    "id": "5511957405740@s.whatsapp.net",
+    "name": "Nenza Macedo Cliente",
+    "lid": "142047554089157@lid"
+  },
+  {
+    "id": "5521991593431@s.whatsapp.net",
+    "name": "Ney do Valle Cliente",
+    "lid": "108787511885907@lid"
+  },
+  {
+    "id": "5521976648854@s.whatsapp.net",
+    "name": "Marilda Cliente",
+    "lid": "52458848047155@lid"
+  },
+  {
+    "id": "5512988669479@s.whatsapp.net",
+    "name": "Cliente Bn 2- 12",
+    "lid": "106541092978790@lid"
+  },
+  {
+    "id": "5511952896592@s.whatsapp.net",
+    "name": "Karol Ap Holanda",
+    "lid": "84825704796302@lid"
+  },
+  {
+    "id": "5519997708804@s.whatsapp.net",
+    "name": "Marcos Fundelo",
+    "lid": "51389317271704@lid"
+  },
+  {
+    "id": "5511991838799@s.whatsapp.net",
+    "name": "Anderson Selloko Cliente",
+    "lid": "241540387582107@lid"
+  },
+  {
+    "id": "5514996635989@s.whatsapp.net",
+    "name": "Gabriel Skt Cargo",
+    "lid": "113692800712868@lid"
+  },
+  {
+    "id": "5511961723433@s.whatsapp.net",
+    "name": "Marcos Biohype",
+    "lid": "197792337248272@lid"
+  },
+  {
+    "id": "5511962474924@s.whatsapp.net",
+    "name": "Andre Vm Modas",
+    "lid": "103702035751079@lid"
+  },
+  {
+    "id": "5511951214634@s.whatsapp.net",
+    "name": "Paula Casa",
+    "lid": "83000343683184@lid"
+  },
+  {
+    "id": "5511945320074@s.whatsapp.net",
+    "name": "Jamille",
+    "lid": "185482491220006@lid"
+  },
+  {
+    "id": "5511986881198@s.whatsapp.net",
+    "name": "Carioca",
+    "lid": "76192770175127@lid"
+  },
+  {
+    "id": "5511949157596@s.whatsapp.net",
+    "name": "Reinaldo Marceneiro",
+    "lid": "19825770381446@lid"
+  },
+  {
+    "id": "5511952748191@s.whatsapp.net",
+    "name": "allan Skt",
+    "lid": "124468236173326@lid"
+  },
+  {
+    "id": "5511913238098@s.whatsapp.net",
+    "name": "Crossfit Bull",
+    "lid": "4582797230329@lid"
+  },
+  {
+    "id": "5511987184405@s.whatsapp.net",
+    "name": "Wesley I30",
+    "lid": "75127987372054@lid"
+  },
+  {
+    "id": "5511994307749@s.whatsapp.net",
+    "name": "Shirley Biohype",
+    "lid": "263062468731125@lid"
+  },
+  {
+    "id": "5511958696314@s.whatsapp.net",
+    "name": "Patrick",
+    "lid": "71730282365147@lid"
+  },
+  {
+    "id": "5511995709281@s.whatsapp.net",
+    "name": "Guilherme Loureiro",
+    "lid": "214855906816049@lid"
+  },
+  {
+    "id": "5511931444365@s.whatsapp.net",
+    "name": "Certificado Ferraz",
+    "lid": "266507032473614@lid"
+  },
+  {
+    "id": "5511981205488@s.whatsapp.net",
+    "name": "Elisabete Biohype",
+    "lid": "41442441490566@lid"
+  },
+  {
+    "id": "5511911401958@s.whatsapp.net",
+    "name": "Damiana Pereira Cliente",
+    "lid": "195262249201771@lid"
+  },
+  {
+    "id": "5512981855103@s.whatsapp.net",
+    "name": "Ana Veloso Envelope",
+    "lid": "141846059700434@lid"
+  },
+  {
+    "id": "5511986663566@s.whatsapp.net",
+    "name": "Isabella Hiago",
+    "lid": "210281716285519@lid"
+  },
+  {
+    "id": "5511919746390@s.whatsapp.net",
+    "name": "Antônio Cliente",
+    "lid": "224545504006190@lid"
+  },
+  {
+    "id": "5514997589571@s.whatsapp.net",
+    "name": "Neuza Cliente",
+    "lid": "94416786206883@lid"
+  },
+  {
+    "id": "5511981227823@s.whatsapp.net",
+    "name": "Sairica Fornecedor",
+    "lid": "231713653440642@lid"
+  },
+  {
+    "id": "5517991837890@s.whatsapp.net",
+    "name": "Paty Cliente",
+    "lid": "194849881993329@lid"
+  },
+  {
+    "id": "5511958905933@s.whatsapp.net",
+    "name": "Thauan",
+    "lid": "194566531584001@lid"
+  },
+  {
+    "id": "5511985570192@s.whatsapp.net",
+    "name": "Nego Roots 🇬🇭",
+    "lid": "206240386969788@lid"
+  },
+  {
+    "id": "5511963990556@s.whatsapp.net",
+    "name": "Positron",
+    "lid": "60048122364078@lid"
+  },
+  {
+    "id": "5511947517912@s.whatsapp.net",
+    "name": "Aparecido Moreno Cliente",
+    "lid": "36863838543909@lid"
+  },
+  {
+    "id": "553188793302@s.whatsapp.net",
+    "name": "Eder Cliente 31",
+    "lid": "275298981539882@lid"
+  },
+  {
+    "id": "5511995563622@s.whatsapp.net",
+    "name": "Elaine Balke",
+    "lid": "255666686017747@lid"
+  },
+  {
+    "id": "556492157799@s.whatsapp.net",
+    "name": "Jessica Biohype",
+    "lid": "90211543466094@lid"
+  },
+  {
+    "id": "553599090091@s.whatsapp.net",
+    "name": "Jônatas-PONTO tecnologias Cliente",
+    "lid": "146552924418121@lid"
+  },
+  {
+    "id": "5511964614532@s.whatsapp.net",
+    "name": "Marcelo Engate",
+    "lid": "154795100893401@lid"
+  },
+  {
+    "id": "5511940101124@s.whatsapp.net",
+    "name": "Sergio Ar Condicionado",
+    "lid": "17042480562365@lid"
+  },
+  {
+    "id": "5511946432766@s.whatsapp.net",
+    "name": "Maria Benedita Cliente",
+    "lid": "45951888687145@lid"
+  },
+  {
+    "id": "553584259571@s.whatsapp.net",
+    "name": "Bruno",
+    "lid": "105505955553485@lid"
+  },
+  {
+    "id": "5511977707530@s.whatsapp.net",
+    "name": "Madruga",
+    "lid": "251852805402796@lid"
+  },
+  {
+    "id": "554797649558@s.whatsapp.net",
+    "name": "Autêntica Moda Íntima Cliente",
+    "lid": "98466604785767@lid"
+  },
+  {
+    "id": "5511985895632@s.whatsapp.net",
+    "name": "Thalita",
+    "lid": "179585484378165@lid"
+  },
+  {
+    "id": "5511971488116@s.whatsapp.net",
+    "name": "Ma",
+    "lid": "269088391708877@lid"
+  },
+  {
+    "id": "557488460747@s.whatsapp.net",
+    "name": "JACKSON Biohype",
+    "lid": "38371271389200@lid"
+  },
+  {
+    "id": "5511977121177@s.whatsapp.net",
+    "name": "Guilherme Skt",
+    "lid": "190318808969464@lid"
+  },
+  {
+    "id": "5511941340259@s.whatsapp.net",
+    "name": "Bahia Cell Shop Oriental",
+    "lid": "275371912069327@lid"
+  },
+  {
+    "id": "5511988338078@s.whatsapp.net",
+    "name": "Dazzling",
+    "lid": "26594471055472@lid"
+  },
+  {
+    "id": "5513974193062@s.whatsapp.net",
+    "name": "Mc Léo da Baixada",
+    "lid": "110088702427136@lid"
+  },
+  {
+    "id": "554196540682@s.whatsapp.net",
+    "name": "DIRLEY Biohype",
+    "lid": "120207762792472@lid"
+  },
+  {
+    "id": "5511944800295@s.whatsapp.net",
+    "name": "Jamine Biohype",
+    "lid": "143503615066325@lid"
+  },
+  {
+    "id": "5512991706875@s.whatsapp.net",
+    "name": "nenaubatuba1968 Cliente",
+    "lid": "35377662423227@lid"
+  },
+  {
+    "id": "558198434861@s.whatsapp.net",
+    "name": "Dilas Marinheiro",
+    "lid": "52385716113563@lid"
+  },
+  {
+    "id": "5511945578068@s.whatsapp.net",
+    "name": "Marcio Luter King",
+    "lid": "32667638734960@lid"
+  },
+  {
+    "id": "552140404640@s.whatsapp.net",
+    "name": "Suporte Shopee",
+    "lid": "145522115498080@lid"
+  },
+  {
+    "id": "5511991812298@s.whatsapp.net",
+    "name": "Suporte Impressora",
+    "lid": "86225897697324@lid"
+  },
+  {
+    "id": "5519996702919@s.whatsapp.net",
+    "name": "h2d conf Cliente",
+    "lid": "157062759731352@lid"
+  },
+  {
+    "id": "5511953781749@s.whatsapp.net",
+    "name": "Leandro Terreno",
+    "lid": "32302499385350@lid"
+  },
+  {
+    "id": "5511986635011@s.whatsapp.net",
+    "name": "Fatima Cliente",
+    "lid": "119129575059692@lid"
+  },
+  {
+    "id": "5515998018315@s.whatsapp.net",
+    "name": "Luina De Aparecida Da Lita",
+    "lid": "72589309382874@lid"
+  },
+  {
+    "id": "5511947718326@s.whatsapp.net",
+    "name": "Leticia",
+    "lid": "183382755520554@lid"
+  },
+  {
+    "id": "5521989969224@s.whatsapp.net",
+    "name": "Yang Fit",
+    "lid": "215186501824605@lid"
+  },
+  {
+    "id": "557185566121@s.whatsapp.net",
+    "name": "Leilane Biohype",
+    "lid": "47223584911387@lid"
+  },
+  {
+    "id": "5512988963000@s.whatsapp.net",
+    "name": "Anderson Piscineiro",
+    "lid": "21307467002026@lid"
+  },
+  {
+    "id": "5511952401314@s.whatsapp.net",
+    "name": "Fernando R Cima",
+    "lid": "144727529779440@lid"
+  },
+  {
+    "id": "5511948509182@s.whatsapp.net",
+    "name": "Camisa Adidas",
+    "lid": "27956059631813@lid"
+  },
+  {
+    "id": "5511983039438@s.whatsapp.net",
+    "name": "Ozk Camisetas",
+    "lid": "202847178256590@lid"
+  },
+  {
+    "id": "5511981531668@s.whatsapp.net",
+    "name": "Wfc Imports",
+    "lid": "163307692548224@lid"
+  },
+  {
+    "id": "5511945561168@s.whatsapp.net",
+    "name": "Letícia",
+    "lid": "243443058110673@lid"
+  },
+  {
+    "id": "5511962954247@s.whatsapp.net",
+    "name": "Duas Marias Restante",
+    "lid": "124343682101472@lid"
+  },
+  {
+    "id": "5519994328381@s.whatsapp.net",
+    "name": "Well Shopee Mizuno",
+    "lid": "45986432946189@lid"
+  },
+  {
+    "id": "554998220884@s.whatsapp.net",
+    "name": "ScriptNet | Soluções Web",
+    "lid": "257835745185876@lid"
+  },
+  {
+    "id": "5511974792510@s.whatsapp.net",
+    "name": "Adriano Network",
+    "lid": "123570537656501@lid"
+  },
+  {
+    "id": "5511977315010@s.whatsapp.net",
+    "name": "Victor Moura",
+    "lid": "157191625519222@lid"
+  },
+  {
+    "id": "5511957958894@s.whatsapp.net",
+    "name": "Robson Biohype",
+    "lid": "194141162062013@lid"
+  },
+  {
+    "id": "5511956474698@s.whatsapp.net",
+    "name": "LUIZ TADEU WTS Place",
+    "lid": "63990768095399@lid"
+  },
+  {
+    "id": "5511982005731@s.whatsapp.net",
+    "name": "Maria Aparecida Cliente",
+    "lid": "54713789726878@lid"
+  },
+  {
+    "id": "5511977104143@s.whatsapp.net",
+    "name": "Igor Mamprim",
+    "lid": "142945151938600@lid"
+  },
+  {
+    "id": "5511971940709@s.whatsapp.net",
+    "name": "Rivaldo Marceneiro",
+    "lid": "50925460803752@lid"
+  },
+  {
+    "id": "5511947571411@s.whatsapp.net",
+    "name": "Despachante ADD",
+    "lid": "130103300337911@lid"
+  },
+  {
+    "id": "5511960789721@s.whatsapp.net",
+    "name": "Paulo  Cunha",
+    "lid": "37662668943614@lid"
+  },
+  {
+    "id": "5511994106860@s.whatsapp.net",
+    "name": "Igor Xs Max",
+    "lid": "87157838495955@lid"
+  },
+  {
+    "id": "5521992530940@s.whatsapp.net",
+    "name": "Lucas Alves",
+    "lid": "90349133369550@lid"
+  },
+  {
+    "id": "5513988667134@s.whatsapp.net",
+    "name": "MC Bó do Catarina",
+    "lid": "30816507805896@lid"
+  },
+  {
+    "id": "5511947146126@s.whatsapp.net",
+    "name": "G5 Cartao Visitas",
+    "lid": "145436199379179@lid"
+  },
+  {
+    "id": "553187121488@s.whatsapp.net",
+    "name": "Hard Bag Personalizado Cliente",
+    "lid": "222054221656150@lid"
+  },
+  {
+    "id": "5511978707740@s.whatsapp.net",
+    "name": "Tio Nilson Novo Alves",
+    "lid": "115320358477859@lid"
+  },
+  {
+    "id": "5511988885946@s.whatsapp.net",
+    "name": "Jaque",
+    "lid": "23575293649128@lid"
+  },
+  {
+    "id": "5511954351885@s.whatsapp.net",
+    "name": "Karen Modas Fornecedor",
+    "lid": "35506528235678@lid"
+  },
+  {
+    "id": "5511950499574@s.whatsapp.net",
+    "name": "Elias Junay",
+    "lid": "254623042506762@lid"
+  },
+  {
+    "id": "553597813409@s.whatsapp.net",
+    "name": "fatimaalvescamargo1970 Cliente",
+    "lid": "264892762316832@lid"
+  },
+  {
+    "id": "557988197936@s.whatsapp.net",
+    "name": "Luiz Freela",
+    "lid": "271373599518872@lid"
+  },
+  {
+    "id": "5511976249832@s.whatsapp.net",
+    "name": "Barbara Ip X",
+    "lid": "160838002467064@lid"
+  },
+  {
+    "id": "5511980513624@s.whatsapp.net",
+    "name": "Abmael",
+    "lid": "17321720574047@lid"
+  },
+  {
+    "id": "5511960387588@s.whatsapp.net",
+    "name": "Cuzaki Fornecedor",
+    "lid": "81587316215994@lid"
+  },
+  {
+    "id": "5511967819140@s.whatsapp.net",
+    "name": "Cargo Feirinha ",
+    "lid": "217780662067237@lid"
+  },
+  {
+    "id": "5511984224720@s.whatsapp.net",
+    "name": "Alexandre Luta",
+    "lid": "158742125498531@lid"
+  },
+  {
+    "id": "5512996239289@s.whatsapp.net",
+    "name": "Rafael Martins Correto Caragua",
+    "lid": "57140295262430@lid"
+  },
+  {
+    "id": "5511945688573@s.whatsapp.net",
+    "name": "Susa Jeans",
+    "lid": "80423430438926@lid"
+  },
+  {
+    "id": "5511957871662@s.whatsapp.net",
+    "name": "Assistec",
+    "lid": "45595389644928@lid"
+  },
+  {
+    "id": "5511940109193@s.whatsapp.net",
+    "name": "Jair Uber",
+    "lid": "28862448726021@lid"
+  },
+  {
+    "id": "5521969464028@s.whatsapp.net",
+    "name": "Willian Compton Preta G",
+    "lid": "138907865895072@lid"
+  },
+  {
+    "id": "5511979876117@s.whatsapp.net",
+    "name": "Fabio Uno",
+    "lid": "85766336151629@lid"
+  },
+  {
+    "id": "5511986786661@s.whatsapp.net",
+    "name": "Lari",
+    "lid": "280684719546408@lid"
+  },
+  {
+    "id": "5511963403267@s.whatsapp.net",
+    "name": "Mayara Cliente  Dhstore",
+    "lid": "141738266124450@lid"
+  },
+  {
+    "id": "5511959170864@s.whatsapp.net",
+    "name": "Marcelo Silva Cliente",
+    "lid": "188772469723334@lid"
+  },
+  {
+    "id": "5521994661610@s.whatsapp.net",
+    "name": "Claudia Cliente",
+    "lid": "179826103193656@lid"
+  },
+  {
+    "id": "554491774301@s.whatsapp.net",
+    "name": "Zélia Dos Anjos Cliente",
+    "lid": "148464319103174@lid"
+  },
+  {
+    "id": "556296443714@s.whatsapp.net",
+    "name": "Kemilly Borges Atacado",
+    "lid": "121599164416199@lid"
+  },
+  {
+    "id": "5511982305375@s.whatsapp.net",
+    "name": "Rubinho",
+    "lid": "48030787084354@lid"
+  },
+  {
+    "id": "551126300074@s.whatsapp.net",
+    "name": "GT Car",
+    "lid": "10316813484032@lid"
+  },
+  {
+    "id": "5511963417508@s.whatsapp.net",
+    "name": "Jaine",
+    "lid": "145483544682498@lid"
+  },
+  {
+    "id": "5512982407660@s.whatsapp.net",
+    "name": "Vinicius Rodrigues Embalagem",
+    "lid": "136223511322819@lid"
+  },
+  {
+    "id": "5511942142427@s.whatsapp.net",
+    "name": "Marquinhos Amigo",
+    "lid": "97070706905129@lid"
+  },
+  {
+    "id": "557183100922@s.whatsapp.net",
+    "name": "Erik Cliente Boné",
+    "lid": "58536193212611@lid"
+  },
+  {
+    "id": "5511994282479@s.whatsapp.net",
+    "name": "Gabriel Bras",
+    "lid": "260133368115271@lid"
+  },
+  {
+    "id": "5521986538840@s.whatsapp.net",
+    "name": "Lu Vet Novo",
+    "lid": "265656662548497@lid"
+  },
+  {
+    "id": "5511986727422@s.whatsapp.net",
+    "name": "Dario Kreta Atacado",
+    "lid": "248541217837107@lid"
+  },
+  {
+    "id": "551122148684@s.whatsapp.net",
+    "name": "Impre",
+    "lid": "241768104767534@lid"
+  },
+  {
+    "id": "553598778136@s.whatsapp.net",
+    "name": "Rodrigo Ferrarezi Cliente",
+    "lid": "266416888516647@lid"
+  },
+  {
+    "id": "5511947652211@s.whatsapp.net",
+    "name": "Loja Lanterna",
+    "lid": "138693218181273@lid"
+  },
+  {
+    "id": "5511983488849@s.whatsapp.net",
+    "name": "Jessica Amg jé",
+    "lid": "135050951663681@lid"
+  },
+  {
+    "id": "5511967957592@s.whatsapp.net",
+    "name": "Lan House",
+    "lid": "220989052993651@lid"
+  },
+  {
+    "id": "556984168323@s.whatsapp.net",
+    "name": "Cliente Bn- 69",
+    "lid": "185061618004093@lid"
+  },
+  {
+    "id": "5511952915822@s.whatsapp.net",
+    "name": "Wagner Victor",
+    "lid": "91280990330975@lid"
+  },
+  {
+    "id": "558892136554@s.whatsapp.net",
+    "name": "Elinardo Silva Graninha",
+    "lid": "220130109816924@lid"
+  },
+  {
+    "id": "5511934718716@s.whatsapp.net",
+    "name": "Boli",
+    "lid": "129300091170995@lid"
+  },
+  {
+    "id": "5511910348556@s.whatsapp.net",
+    "name": "Alibeth Fornecedor Feirinha",
+    "lid": "168792382525545@lid"
+  },
+  {
+    "id": "5524999991887@s.whatsapp.net",
+    "name": "Simone Cliente",
+    "lid": "108714379989055@lid"
+  },
+  {
+    "id": "5511949463798@s.whatsapp.net",
+    "name": "Rodrigo Centro",
+    "lid": "53231891775635@lid"
+  },
+  {
+    "id": "5511947768370@s.whatsapp.net",
+    "name": "Salao Rua Naroca",
+    "lid": "214130023768264@lid"
+  },
+  {
+    "id": "5513996485799@s.whatsapp.net",
+    "name": "Gabriela",
+    "lid": "113022114730159@lid"
+  },
+  {
+    "id": "5511993004501@s.whatsapp.net",
+    "name": "Xo Das Empreita",
+    "lid": "111308389265538@lid"
+  },
+  {
+    "id": "5511949032175@s.whatsapp.net",
+    "name": "Jaiminho Empresa",
+    "lid": "71429685018819@lid"
+  },
+  {
+    "id": "554197732695@s.whatsapp.net",
+    "name": "Wagner Melo",
+    "lid": "14263720669209@lid"
+  },
+  {
+    "id": "5511983536325@s.whatsapp.net",
+    "name": "Jhonny Luxem",
+    "lid": "185980824846477@lid"
+  },
+  {
+    "id": "556293294408@s.whatsapp.net",
+    "name": "Mafia064 Streetwear Cliente",
+    "lid": "231352758722727@lid"
+  },
+  {
+    "id": "5511985722706@s.whatsapp.net",
+    "name": "Celso Tessari",
+    "lid": "227714921443371@lid"
+  },
+  {
+    "id": "5524999110768@s.whatsapp.net",
+    "name": "Maurílio da Silva Cliente",
+    "lid": "215130751123497@lid"
+  },
+  {
+    "id": "5511947003878@s.whatsapp.net",
+    "name": "Darcio Oliveira | Cotoweb Vídeos",
+    "lid": "245066572546279@lid"
+  },
+  {
+    "id": "5522981658583@s.whatsapp.net",
+    "name": ". Cliente",
+    "lid": "217781098307790@lid"
+  },
+  {
+    "id": "559881517929@s.whatsapp.net",
+    "name": "Laercio Biohype",
+    "lid": "170256916037737@lid"
+  },
+  {
+    "id": "5511972140508@s.whatsapp.net",
+    "name": "Porta Palet Zsul",
+    "lid": "215942516703267@lid"
+  },
+  {
+    "id": "5519981551037@s.whatsapp.net",
+    "name": "Jefferson",
+    "lid": "44032155754733@lid"
+  },
+  {
+    "id": "5511942171635@s.whatsapp.net",
+    "name": "Juninho Podcast",
+    "lid": "15449081270333@lid"
+  },
+  {
+    "id": "5511992072322@s.whatsapp.net",
+    "name": "David Q3 2.0",
+    "lid": "196065374552228@lid"
+  },
+  {
+    "id": "5511971221073@s.whatsapp.net",
+    "name": "Oncross",
+    "lid": "107533280768160@lid"
+  },
+  {
+    "id": "5511991012502@s.whatsapp.net",
+    "name": "Dio Mio 2",
+    "lid": "121135274447043@lid"
+  },
+  {
+    "id": "5511940651573@s.whatsapp.net",
+    "name": "Wesley Ip 11 Branco",
+    "lid": "6472649953492@lid"
+  },
+  {
+    "id": "5511951593067@s.whatsapp.net",
+    "name": "Naroca",
+    "lid": "223007620505697@lid"
+  },
+  {
+    "id": "5512988038553@s.whatsapp.net",
+    "name": "Angela Cliente",
+    "lid": "60567763058890@lid"
+  },
+  {
+    "id": "5521982522519@s.whatsapp.net",
+    "name": "Jayme Biohype",
+    "lid": "148382731493608@lid"
+  },
+  {
+    "id": "5511989654157@s.whatsapp.net",
+    "name": "Megane",
+    "lid": "162564646416627@lid"
+  },
+  {
+    "id": "5511997455711@s.whatsapp.net",
+    "name": "Angela Cliente",
+    "lid": "80925908066474@lid"
+  },
+  {
+    "id": "5511977922846@s.whatsapp.net",
+    "name": "Sairica 2 Fornecedor",
+    "lid": "178408696852580@lid"
+  },
+  {
+    "id": "5511948687906@s.whatsapp.net",
+    "name": "Cristiano Mec",
+    "lid": "241931246391461@lid"
+  },
+  {
+    "id": "5511947430139@s.whatsapp.net",
+    "name": "Gf Auto Center",
+    "lid": "7653682065468@lid"
+  },
+  {
+    "id": "5511963445560@s.whatsapp.net",
+    "name": "Willian Primo",
+    "lid": "192041510244476@lid"
+  },
+  {
+    "id": "554497724472@s.whatsapp.net",
+    "name": "ju Cliente",
+    "lid": "247695243530464@lid"
+  },
+  {
+    "id": "5521983140922@s.whatsapp.net",
+    "name": "Andreia Biohype",
+    "lid": "229243946573942@lid"
+  },
+  {
+    "id": "5511932084803@s.whatsapp.net",
+    "name": "Fornecedor Blusa Ted 1",
+    "lid": "156985483911281@lid"
+  },
+  {
+    "id": "5511932851027@s.whatsapp.net",
+    "name": "Fashion Fornecedor Saias",
+    "lid": "9212889444469@lid"
+  },
+  {
+    "id": "5511949837332@s.whatsapp.net",
+    "name": "Jeferson Soares Cliente",
+    "lid": "113073805361268@lid"
+  },
+  {
+    "id": "5511981611904@s.whatsapp.net",
+    "name": "Fornecedor Agua",
+    "lid": "50191021395996@lid"
+  },
+  {
+    "id": "556182350619@s.whatsapp.net",
+    "name": "Eliana Cliente 61",
+    "lid": "36645315342470@lid"
+  },
+  {
+    "id": "559391005175@s.whatsapp.net",
+    "name": "Kennedy Cliente",
+    "lid": "189605643030620@lid"
+  },
+  {
+    "id": "5511947541004@s.whatsapp.net",
+    "name": "Mc Pecas ",
+    "lid": "228054257414371@lid"
+  },
+  {
+    "id": "5513996932900@s.whatsapp.net",
+    "name": "Rafael Futvolei",
+    "lid": "45904996360336@lid"
+  },
+  {
+    "id": "553196890501@s.whatsapp.net",
+    "name": "Dayse Cliente",
+    "lid": "274710503891104@lid"
+  },
+  {
+    "id": "5511918676976@s.whatsapp.net",
+    "name": "Mirian Oliveira Cliente",
+    "lid": "30447711088784@lid"
+  },
+  {
+    "id": "553187358708@s.whatsapp.net",
+    "name": "Sirlene Cliente",
+    "lid": "57505535230196@lid"
+  },
+  {
+    "id": "5511966167972@s.whatsapp.net",
+    "name": "Cliente Nk Metcon Shopee",
+    "lid": "71593011187789@lid"
+  },
+  {
+    "id": "554898562877@s.whatsapp.net",
+    "name": "Onofre Dezori",
+    "lid": "24124898435171@lid"
+  },
+  {
+    "id": "554792698418@s.whatsapp.net",
+    "name": "Jette_modas Cliente",
+    "lid": "203680301203539@lid"
+  },
+  {
+    "id": "558899719162@s.whatsapp.net",
+    "name": "Pizzaria Araxa",
+    "lid": "144727529783551@lid"
+  },
+  {
+    "id": "5511987563895@s.whatsapp.net",
+    "name": "‪987563895‬",
+    "lid": "218309010186480@lid"
+  },
+  {
+    "id": "553899799876@s.whatsapp.net",
+    "name": "Jane Mg",
+    "lid": "15968822624509@lid"
+  },
+  {
+    "id": "5511975809511@s.whatsapp.net",
+    "name": "Erika Game Stick",
+    "lid": "47468012159093@lid"
+  },
+  {
+    "id": "5511978852195@s.whatsapp.net",
+    "name": "Chris Cliente",
+    "lid": "16712422432820@lid"
+  },
+  {
+    "id": "5511970520702@s.whatsapp.net",
+    "name": "Hiago Isa",
+    "lid": "68608260595955@lid"
+  },
+  {
+    "id": "5511971026812@s.whatsapp.net",
+    "name": "Will",
+    "lid": "61933579403386@lid"
+  },
+  {
+    "id": "5511977485685@s.whatsapp.net",
+    "name": "Leo Troiano",
+    "lid": "269350904795193@lid"
+  },
+  {
+    "id": "5511949399390@s.whatsapp.net",
+    "name": "Kaio Motorista J3 Flex",
+    "lid": "47055745601766@lid"
+  },
+  {
+    "id": "5511981681884@s.whatsapp.net",
+    "name": "Bruna Kaike",
+    "lid": "43675690250278@lid"
+  },
+  {
+    "id": "5511976451405@s.whatsapp.net",
+    "name": "Lenita",
+    "lid": "29403547488410@lid"
+  },
+  {
+    "id": "5517996568201@s.whatsapp.net",
+    "name": "Nice Modas Cliente",
+    "lid": "145513794015322@lid"
+  },
+  {
+    "id": "5511940374862@s.whatsapp.net",
+    "name": "Rodrigo Corretor Seguro",
+    "lid": "37997642788977@lid"
+  },
+  {
+    "id": "5511940671337@s.whatsapp.net",
+    "name": "Cliente Bn 1",
+    "lid": "144847889530900@lid"
+  },
+  {
+    "id": "5511983125272@s.whatsapp.net",
+    "name": "Mayara Santos",
+    "lid": "160322673459241@lid"
+  },
+  {
+    "id": "551128631802@s.whatsapp.net",
+    "name": "Raiztec Informática",
+    "lid": "261765556379686@lid"
+  },
+  {
+    "id": "5511914002925@s.whatsapp.net",
+    "name": "Samuel Pesso",
+    "lid": "235050893344815@lid"
+  },
+  {
+    "id": "554598033555@s.whatsapp.net",
+    "name": "Denise Dorneles Cliente",
+    "lid": "244997853040843@lid"
+  },
+  {
+    "id": "5511974302423@s.whatsapp.net",
+    "name": "Nany Estofados",
+    "lid": "163921839267941@lid"
+  },
+  {
+    "id": "5527998611739@s.whatsapp.net",
+    "name": "Geferson Biohype",
+    "lid": "256778998698193@lid"
+  },
+  {
+    "id": "5511986115729@s.whatsapp.net",
+    "name": "Thábata Gomes",
+    "lid": "64626490396797@lid"
+  },
+  {
+    "id": "554184833692@s.whatsapp.net",
+    "name": "Jeronimo",
+    "lid": "71095197688051@lid"
+  },
+  {
+    "id": "5511973390276@s.whatsapp.net",
+    "name": "Grazi Cunha",
+    "lid": "253278902317170@lid"
+  },
+  {
+    "id": "554599475647@s.whatsapp.net",
+    "name": "Maico",
+    "lid": "159266111533237@lid"
+  },
+  {
+    "id": "5511989521816@s.whatsapp.net",
+    "name": "Laisla Esmalteria Penha",
+    "lid": "162238178537710@lid"
+  },
+  {
+    "id": "5511983046804@s.whatsapp.net",
+    "name": "Fabio Bovolon",
+    "lid": "117407259590844@lid"
+  },
+  {
+    "id": "5511915094256@s.whatsapp.net",
+    "name": "Maria Dos Anjos Cliente",
+    "lid": "72366575079605@lid"
+  },
+  {
+    "id": "5511940120889@s.whatsapp.net",
+    "name": "Corretor Marcio Ap Sm",
+    "lid": "60185410302146@lid"
+  },
+  {
+    "id": "5511967641047@s.whatsapp.net",
+    "name": "Transcontinental",
+    "lid": "178344423346227@lid"
+  },
+  {
+    "id": "5512992235303@s.whatsapp.net",
+    "name": "Hud",
+    "lid": "21209001525360@lid"
+  },
+  {
+    "id": "555596038180@s.whatsapp.net",
+    "name": "Fabiana Da luz",
+    "lid": "280547465146373@lid"
+  },
+  {
+    "id": "5512997144476@s.whatsapp.net",
+    "name": "Monica Atill Casa",
+    "lid": "269960202965106@lid"
+  },
+  {
+    "id": "5511993193360@s.whatsapp.net",
+    "name": "Estamparia LH",
+    "lid": "181926358974680@lid"
+  },
+  {
+    "id": "5511934991184@s.whatsapp.net",
+    "name": "Ricardinho",
+    "lid": "22630216253603@lid"
+  },
+  {
+    "id": "5511984233399@s.whatsapp.net",
+    "name": "Mohamed Iptv",
+    "lid": "57105969074407@lid"
+  },
+  {
+    "id": "5511959167281@s.whatsapp.net",
+    "name": "Renan",
+    "lid": "235527534071964@lid"
+  },
+  {
+    "id": "5511989555932@s.whatsapp.net",
+    "name": "Lantech Automoveis Farol",
+    "lid": "34218071617601@lid"
+  },
+  {
+    "id": "556181387014@s.whatsapp.net",
+    "name": "Luis Diego",
+    "lid": "165760135602183@lid"
+  },
+  {
+    "id": "5511930053805@s.whatsapp.net",
+    "name": "Angelica Carvalho",
+    "lid": "120542719914104@lid"
+  },
+  {
+    "id": "5511978007519@s.whatsapp.net",
+    "name": "Impressao Aricanduva",
+    "lid": "205278448472162@lid"
+  },
+  {
+    "id": "553188101668@s.whatsapp.net",
+    "name": "Juscelino Jeferson Cliente",
+    "lid": "1017924071541@lid"
+  },
+  {
+    "id": "5513996225518@s.whatsapp.net",
+    "name": "Matheus Isa",
+    "lid": "160670549037196@lid"
+  },
+  {
+    "id": "5511982709586@s.whatsapp.net",
+    "name": "Camila Carioca",
+    "lid": "247244171292678@lid"
+  },
+  {
+    "id": "5514998506758@s.whatsapp.net",
+    "name": "Hermínia Cliente",
+    "lid": "2169042374701@lid"
+  },
+  {
+    "id": "5511970405949@s.whatsapp.net",
+    "name": "NB",
+    "lid": "110707160924357@lid"
+  },
+  {
+    "id": "553584552623@s.whatsapp.net",
+    "name": "Maria Aparecida Cliente",
+    "lid": "149013940707512@lid"
+  },
+  {
+    "id": "5511982798221@s.whatsapp.net",
+    "name": "Pedrinho",
+    "lid": "2947052236837@lid"
+  },
+  {
+    "id": "5511946029628@s.whatsapp.net",
+    "name": "Edson Mec",
+    "lid": "4539914707156@lid"
+  },
+  {
+    "id": "5511983399915@s.whatsapp.net",
+    "name": "Murilo Drone",
+    "lid": "206394754089068@lid"
+  },
+  {
+    "id": "5511984477839@s.whatsapp.net",
+    "name": "Danilo Pre",
+    "lid": "127169703452744@lid"
+  },
+  {
+    "id": "5511965118619@s.whatsapp.net",
+    "name": "Toca Dos Bicho",
+    "lid": "88639652495499@lid"
+  },
+  {
+    "id": "5515996560923@s.whatsapp.net",
+    "name": "Osvaldina Cliente",
+    "lid": "220525095845957@lid"
+  },
+  {
+    "id": "5511991887829@s.whatsapp.net",
+    "name": "Iphone Xr",
+    "lid": "22879559270418@lid"
+  },
+  {
+    "id": "5511987732461@s.whatsapp.net",
+    "name": "Kely Fornecedora Yeeze",
+    "lid": "222561044545551@lid"
+  },
+  {
+    "id": "557398041238@s.whatsapp.net",
+    "name": "Jenilson Cliente 73",
+    "lid": "22896571351098@lid"
+  },
+  {
+    "id": "5511949808239@s.whatsapp.net",
+    "name": "Mano Correio",
+    "lid": "208662530359365@lid"
+  },
+  {
+    "id": "5511988269846@s.whatsapp.net",
+    "name": "Samuel",
+    "lid": "77257972428853@lid"
+  },
+  {
+    "id": "551130039303@s.whatsapp.net",
+    "name": "Porto Seguro Resid",
+    "lid": "241265559994537@lid"
+  },
+  {
+    "id": "553599395939@s.whatsapp.net",
+    "name": "Alexandre Miranda Cliente",
+    "lid": "247248566906880@lid"
+  },
+  {
+    "id": "5511995989863@s.whatsapp.net",
+    "name": "‪+5511995989863‬",
+    "lid": "65270701940933@lid"
+  },
+  {
+    "id": "556798482308@s.whatsapp.net",
+    "name": "AM Contabilidade Online",
+    "lid": "144250922647567@lid"
+  },
+  {
+    "id": "5511977423325@s.whatsapp.net",
+    "name": "Said Multimarcas",
+    "lid": "59975208566872@lid"
+  },
+  {
+    "id": "5512997816045@s.whatsapp.net",
+    "name": "Murilo Clinte Dh Store",
+    "lid": "151547971375349@lid"
+  },
+  {
+    "id": "5513996291485@s.whatsapp.net",
+    "name": "Juscelino Biohype",
+    "lid": "195975196971109@lid"
+  },
+  {
+    "id": "558191333439@s.whatsapp.net",
+    "name": "Lysandra Florencio",
+    "lid": "228569603166260@lid"
+  },
+  {
+    "id": "557591632039@s.whatsapp.net",
+    "name": "Reni Decodificador",
+    "lid": "256817619800087@lid"
+  },
+  {
+    "id": "5512988600664@s.whatsapp.net",
+    "name": "Lidiane Biohype",
+    "lid": "267026824224909@lid"
+  },
+  {
+    "id": "5511910794547@s.whatsapp.net",
+    "name": "Pneus Sao Bernado",
+    "lid": "15230037938333@lid"
+  },
+  {
+    "id": "5515998609973@s.whatsapp.net",
+    "name": "Lourdes Cliente",
+    "lid": "159815816990958@lid"
+  },
+  {
+    "id": "556392044584@s.whatsapp.net",
+    "name": "Tocantins",
+    "lid": "253369348304918@lid"
+  },
+  {
+    "id": "5511992235441@s.whatsapp.net",
+    "name": "Yarlei",
+    "lid": "105807173669046@lid"
+  },
+  {
+    "id": "5511952600341@s.whatsapp.net",
+    "name": "Eli Oliveira",
+    "lid": "70939991642328@lid"
+  },
+  {
+    "id": "5511984143530@s.whatsapp.net",
+    "name": "Junior Cap",
+    "lid": "30361308397753@lid"
+  },
+  {
+    "id": "5511983543106@s.whatsapp.net",
+    "name": "Stefani Vivo",
+    "lid": "251861244354670@lid"
+  },
+  {
+    "id": "557388486510@s.whatsapp.net",
+    "name": "Concerto Eletro Caragua",
+    "lid": "9049613582433@lid"
+  },
+  {
+    "id": "5511945436772@s.whatsapp.net",
+    "name": "Elizabete Cliente",
+    "lid": "233500376613035@lid"
+  },
+  {
+    "id": "553298625407@s.whatsapp.net",
+    "name": "Transplante Capilar Mansur",
+    "lid": "54254043680819@lid"
+  },
+  {
+    "id": "5517996709210@s.whatsapp.net",
+    "name": "RV calçados Cliente",
+    "lid": "126702206369795@lid"
+  },
+  {
+    "id": "5511963885843@s.whatsapp.net",
+    "name": "Victor Boli",
+    "lid": "199316731855057@lid"
+  },
+  {
+    "id": "555596207964@s.whatsapp.net",
+    "name": "Silvia Paz",
+    "lid": "178563449925745@lid"
+  },
+  {
+    "id": "556298159510@s.whatsapp.net",
+    "name": "‪6298159510‬",
+    "lid": "243176837259336@lid"
+  },
+  {
+    "id": "554188194642@s.whatsapp.net",
+    "name": "Daiana Gonçalves Cliente",
+    "lid": "211974268915945@lid"
+  },
+  {
+    "id": "5511952224031@s.whatsapp.net",
+    "name": "lili",
+    "lid": "239045649137793@lid"
+  },
+  {
+    "id": "5511913663035@s.whatsapp.net",
+    "name": "Macbook 2019",
+    "lid": "237980346257427@lid"
+  },
+  {
+    "id": "5511969348177@s.whatsapp.net",
+    "name": "cleide Cliente",
+    "lid": "32908123312230@lid"
+  },
+  {
+    "id": "553172437027@s.whatsapp.net",
+    "name": "Marcos Paulo Cliente",
+    "lid": "80174238437601@lid"
+  },
+  {
+    "id": "5519989795001@s.whatsapp.net",
+    "name": "Bruno Lois Cliente",
+    "lid": "21655409684507@lid"
+  },
+  {
+    "id": "553899125570@s.whatsapp.net",
+    "name": "Tio Nilson",
+    "lid": "162638013157551@lid"
+  },
+  {
+    "id": "5511974231951@s.whatsapp.net",
+    "name": "Leonardo Biohype",
+    "lid": "113279846318322@lid"
+  },
+  {
+    "id": "5524999819119@s.whatsapp.net",
+    "name": "Knf Surf Cliente",
+    "lid": "31198776688802@lid"
+  },
+  {
+    "id": "5511985795678@s.whatsapp.net",
+    "name": "Paloma Markin",
+    "lid": "254000154812662@lid"
+  },
+  {
+    "id": "5511998642489@s.whatsapp.net",
+    "name": "Vagner Vestido Infantil",
+    "lid": "102331974733904@lid"
+  },
+  {
+    "id": "5511930974201@s.whatsapp.net",
+    "name": "Elza Cliente",
+    "lid": "277274599378987@lid"
+  },
+  {
+    "id": "5511981519381@s.whatsapp.net",
+    "name": "Felix Skate Ceu ",
+    "lid": "213528795451552@lid"
+  },
+  {
+    "id": "5511962280421@s.whatsapp.net",
+    "name": "Feança Tv",
+    "lid": "37465217851630@lid"
+  },
+  {
+    "id": "5511979673771@s.whatsapp.net",
+    "name": "‪979673771‬",
+    "lid": "218596772991036@lid"
+  },
+  {
+    "id": "5511949839885@s.whatsapp.net",
+    "name": "Jeny Cargo",
+    "lid": "30107854999713@lid"
+  },
+  {
+    "id": "5511989354404@s.whatsapp.net",
+    "name": "Diatribuidora Carvao",
+    "lid": "12081877221587@lid"
+  },
+  {
+    "id": "559584257507@s.whatsapp.net",
+    "name": "Rammon Biohype",
+    "lid": "67173640855686@lid"
+  },
+  {
+    "id": "556193674001@s.whatsapp.net",
+    "name": "Cliente Bn 05- 61",
+    "lid": "164209652428985@lid"
+  },
+  {
+    "id": "554198667928@s.whatsapp.net",
+    "name": "Jeferson Cliente",
+    "lid": "124721572135086@lid"
+  },
+  {
+    "id": "553898593903@s.whatsapp.net",
+    "name": "Thalline Luanna Escritorio",
+    "lid": "124051674648615@lid"
+  },
+  {
+    "id": "5511964361159@s.whatsapp.net",
+    "name": "Felipe Brito",
+    "lid": "86599526281338@lid"
+  },
+  {
+    "id": "5511961472812@s.whatsapp.net",
+    "name": "Lali Fla",
+    "lid": "136524192555183@lid"
+  },
+  {
+    "id": "5511975005430@s.whatsapp.net",
+    "name": "Edilson Fernandes Cliente",
+    "lid": "199720442003475@lid"
+  },
+  {
+    "id": "5511948623222@s.whatsapp.net",
+    "name": "Marcelo Ong",
+    "lid": "214628172840964@lid"
+  },
+  {
+    "id": "5511976583282@s.whatsapp.net",
+    "name": "Hugo Henrique",
+    "lid": "168423267004588@lid"
+  },
+  {
+    "id": "5517991430742@s.whatsapp.net",
+    "name": "Ivani Cliente",
+    "lid": "255984480039001@lid"
+  },
+  {
+    "id": "5511985659153@s.whatsapp.net",
+    "name": "Nana",
+    "lid": "235429035008153@lid"
+  },
+  {
+    "id": "5511965600847@s.whatsapp.net",
+    "name": "Renato Cortador",
+    "lid": "25001189204129@lid"
+  },
+  {
+    "id": "5511959657972@s.whatsapp.net",
+    "name": "Saia Cargo Vinil",
+    "lid": "50440246927574@lid"
+  },
+  {
+    "id": "558893419891@s.whatsapp.net",
+    "name": "Angeline Biohype",
+    "lid": "127105346089211@lid"
+  },
+  {
+    "id": "5511948048873@s.whatsapp.net",
+    "name": "Meu Num Pessoal",
+    "lid": "70669559660734@lid"
+  },
+  {
+    "id": "5521974690519@s.whatsapp.net",
+    "name": "Roberto Nobrega Cliente",
+    "lid": "239388743217392@lid"
+  },
+  {
+    "id": "555192777911@s.whatsapp.net",
+    "name": "Loja Only Hype Cliente",
+    "lid": "201841988088041@lid"
+  },
+  {
+    "id": "5511916971405@s.whatsapp.net",
+    "name": "Manga 🥭 Gold",
+    "lid": "158003827310728@lid"
+  },
+  {
+    "id": "5511996278391@s.whatsapp.net",
+    "name": "Gustavo Garage 99 Estética Automotiva",
+    "lid": "272356777963703@lid"
+  },
+  {
+    "id": "5511976957422@s.whatsapp.net",
+    "name": "Rudson Cargos Corre K",
+    "lid": "115165404078209@lid"
+  },
+  {
+    "id": "5511984746619@s.whatsapp.net",
+    "name": "Toinho Danadinho",
+    "lid": "120332132302880@lid"
+  },
+  {
+    "id": "554898071257@s.whatsapp.net",
+    "name": "Selmo Dos Santos Cliente",
+    "lid": "164119625896021@lid"
+  },
+  {
+    "id": "5511962059041@s.whatsapp.net",
+    "name": "7 Plus ",
+    "lid": "65502646923497@lid"
+  },
+  {
+    "id": "5511966860157@s.whatsapp.net",
+    "name": "Multimidia I30",
+    "lid": "54043774853196@lid"
+  },
+  {
+    "id": "5511975853112@s.whatsapp.net",
+    "name": "Cristiane Capelo consultoria imobiliária",
+    "lid": "30374210072715@lid"
+  },
+  {
+    "id": "5516992950138@s.whatsapp.net",
+    "name": "sergio Cliente",
+    "lid": "68217066238194@lid"
+  },
+  {
+    "id": "5512981938986@s.whatsapp.net",
+    "name": "Sandra sousa",
+    "lid": "222393473708270@lid"
+  },
+  {
+    "id": "5511944909979@s.whatsapp.net",
+    "name": "Samros Moda& Cliente",
+    "lid": "34192452763901@lid"
+  },
+  {
+    "id": "5511952282658@s.whatsapp.net",
+    "name": "Laco Dourado Barbara Fornecedora",
+    "lid": "262547156529339@lid"
+  },
+  {
+    "id": "5511940245420@s.whatsapp.net",
+    "name": "Marcos Cruz",
+    "lid": "88089930260563@lid"
+  },
+  {
+    "id": "5511947391936@s.whatsapp.net",
+    "name": "Wesley 🚲",
+    "lid": "70918550376689@lid"
+  },
+  {
+    "id": "558585279901@s.whatsapp.net",
+    "name": "Natannael Biohype",
+    "lid": "133827020255376@lid"
+  },
+  {
+    "id": "5511965484531@s.whatsapp.net",
+    "name": "Modas Aracelly Calca Adidas",
+    "lid": "39832080367631@lid"
+  },
+  {
+    "id": "5511974700817@s.whatsapp.net",
+    "name": "Ricardo Biohype",
+    "lid": "202069738827791@lid"
+  },
+  {
+    "id": "5511978003062@s.whatsapp.net",
+    "name": "Dinho ba",
+    "lid": "129020901462113@lid"
+  },
+  {
+    "id": "5511963668732@s.whatsapp.net",
+    "name": "Thiago Prateleira",
+    "lid": "53614110359686@lid"
+  },
+  {
+    "id": "5511964519813@s.whatsapp.net",
+    "name": "Jessica Oliver",
+    "lid": "19568307261603@lid"
+  },
+  {
+    "id": "5511985966035@s.whatsapp.net",
+    "name": "João Carlos Cliente",
+    "lid": "103001939288215@lid"
+  },
+  {
+    "id": "5511993839020@s.whatsapp.net",
+    "name": "Rô Selloko",
+    "lid": "126817532936270@lid"
+  },
+  {
+    "id": "551129551000@s.whatsapp.net",
+    "name": "Joli",
+    "lid": "31538397880516@lid"
+  },
+  {
+    "id": "5511996773707@s.whatsapp.net",
+    "name": "MARIO Biohype",
+    "lid": "122303673290941@lid"
+  },
+  {
+    "id": "555195974282@s.whatsapp.net",
+    "name": "Lucas Souza Florianopolis",
+    "lid": "15109694988367@lid"
+  },
+  {
+    "id": "5511976217821@s.whatsapp.net",
+    "name": "Gabriel",
+    "lid": "2186289393694@lid"
+  },
+  {
+    "id": "556484191994@s.whatsapp.net",
+    "name": "Melriene Biohype",
+    "lid": "129836995620885@lid"
+  },
+  {
+    "id": "5511958115234@s.whatsapp.net",
+    "name": "Rafael Melão Rodrigues",
+    "lid": "218046950072351@lid"
+  },
+  {
+    "id": "5511958715888@s.whatsapp.net",
+    "name": "Felipe Fornecedor Yeezy",
+    "lid": "230412295094309@lid"
+  },
+  {
+    "id": "5511949790060@s.whatsapp.net",
+    "name": "Geovanna Leo",
+    "lid": "84232915419244@lid"
+  },
+  {
+    "id": "5511991849044@s.whatsapp.net",
+    "name": "Land Rover",
+    "lid": "104741518499850@lid"
+  },
+  {
+    "id": "5511996051202@s.whatsapp.net",
+    "name": "Visionarios Cliente",
+    "lid": "216685747384544@lid"
+  },
+  {
+    "id": "553591349556@s.whatsapp.net",
+    "name": "Ana Catarina",
+    "lid": "78632294842409@lid"
+  },
+  {
+    "id": "5511979806027@s.whatsapp.net",
+    "name": "Mulher Do Geladinho",
+    "lid": "190722837864660@lid"
+  },
+  {
+    "id": "5511963689045@s.whatsapp.net",
+    "name": "Marcelo Santana Cliente",
+    "lid": "260167778193487@lid"
+  },
+  {
+    "id": "5511999274723@s.whatsapp.net",
+    "name": "Tia Ilza",
+    "lid": "144572944527491@lid"
+  },
+  {
+    "id": "5511999791570@s.whatsapp.net",
+    "name": "Bruno Biohype",
+    "lid": "121586363445346@lid"
+  },
+  {
+    "id": "5515996119514@s.whatsapp.net",
+    "name": "VetoRoupagem Cliente",
+    "lid": "195077532053605@lid"
+  },
+  {
+    "id": "5511945012933@s.whatsapp.net",
+    "name": "Confeccoes Jhoel Fornecedor",
+    "lid": "178228291461347@lid"
+  },
+  {
+    "id": "5511963975346@s.whatsapp.net",
+    "name": "Rafael Cliente Dhstore",
+    "lid": "83850696904755@lid"
+  },
+  {
+    "id": "5511978168156@s.whatsapp.net",
+    "name": "Simone Live Biazoto TV+",
+    "lid": "37808664264862@lid"
+  },
+  {
+    "id": "5511947310764@s.whatsapp.net",
+    "name": "Lucas Alexandre",
+    "lid": "26530113708217@lid"
+  },
+  {
+    "id": "5511954246782@s.whatsapp.net",
+    "name": "Cliente Shop Suzano",
+    "lid": "242833726406866@lid"
+  },
+  {
+    "id": "5511993908516@s.whatsapp.net",
+    "name": "Inova Adapt Car",
+    "lid": "267473836318860@lid"
+  },
+  {
+    "id": "5511989190864@s.whatsapp.net",
+    "name": "Iphone 7 Plus Pt Trinco",
+    "lid": "107825237889195@lid"
+  },
+  {
+    "id": "554299552511@s.whatsapp.net",
+    "name": "Eliel Bone Lct",
+    "lid": "136734763446290@lid"
+  },
+  {
+    "id": "5511964920011@s.whatsapp.net",
+    "name": "polo brenda",
+    "lid": "38946897666246@lid"
+  },
+  {
+    "id": "5511943964874@s.whatsapp.net",
+    "name": "Isa Refletivo",
+    "lid": "271124256583694@lid"
+  },
+  {
+    "id": "5515996843973@s.whatsapp.net",
+    "name": "Jesimaria Biohype",
+    "lid": "241046634152034@lid"
+  },
+  {
+    "id": "5511930538973@s.whatsapp.net",
+    "name": "jgatacado123",
+    "lid": "204505002037463@lid"
+  },
+  {
+    "id": "5511992281533@s.whatsapp.net",
+    "name": "Flavia Maria Gueixa",
+    "lid": "131477824110768@lid"
+  },
+  {
+    "id": "5511978915581@s.whatsapp.net",
+    "name": "REIZA VESTIDOS Fornecedor",
+    "lid": "96418358374574@lid"
+  },
+  {
+    "id": "5522988096539@s.whatsapp.net",
+    "name": "cabeto afreitas Cliente",
+    "lid": "53987806072924@lid"
+  },
+  {
+    "id": "553399668558@s.whatsapp.net",
+    "name": "Gabriel Garcia",
+    "lid": "55830414123132@lid"
+  },
+  {
+    "id": "5511947038746@s.whatsapp.net",
+    "name": "Letícia",
+    "lid": "255667138986161@lid"
+  },
+  {
+    "id": "5511988711228@s.whatsapp.net",
+    "name": "Rd Shop",
+    "lid": "109869625540698@lid"
+  },
+  {
+    "id": "5519988814101@s.whatsapp.net",
+    "name": "Silvia Cliente",
+    "lid": "127539070652572@lid"
+  },
+  {
+    "id": "5512988312439@s.whatsapp.net",
+    "name": "Sabrinna Bezerra",
+    "lid": "152188542255244@lid"
+  },
+  {
+    "id": "5511957151010@s.whatsapp.net",
+    "name": "Alex Dr",
+    "lid": "94674115145797@lid"
+  },
+  {
+    "id": "5511999620073@s.whatsapp.net",
+    "name": "FELIPE BRUNO",
+    "lid": "8293632241905@lid"
+  },
+  {
+    "id": "5511949643539@s.whatsapp.net",
+    "name": "Grace Studio Hair",
+    "lid": "30069217091730@lid"
+  },
+  {
+    "id": "5511964569466@s.whatsapp.net",
+    "name": "maurotorralvo401 Cliente",
+    "lid": "205402515992764@lid"
+  },
+  {
+    "id": "5511986131636@s.whatsapp.net",
+    "name": "Marcos Primo ",
+    "lid": "143129869074571@lid"
+  },
+  {
+    "id": "558287114695@s.whatsapp.net",
+    "name": "Alex Php Cata",
+    "lid": "212451127755002@lid"
+  },
+  {
+    "id": "5511914434255@s.whatsapp.net",
+    "name": "G U I Place",
+    "lid": "68389519282413@lid"
+  },
+  {
+    "id": "5511958987759@s.whatsapp.net",
+    "name": "Meia",
+    "lid": "23046861619360@lid"
+  },
+  {
+    "id": "554891395057@s.whatsapp.net",
+    "name": "Fabrício Biohype",
+    "lid": "242262076297335@lid"
+  },
+  {
+    "id": "5511991158885@s.whatsapp.net",
+    "name": "Wide Leg Jeans",
+    "lid": "44388570915046@lid"
+  },
+  {
+    "id": "5511947797031@s.whatsapp.net",
+    "name": "Marcos Site",
+    "lid": "105600495145085@lid"
+  },
+  {
+    "id": "5512982931001@s.whatsapp.net",
+    "name": "Guincho",
+    "lid": "112639996915893@lid"
+  },
+  {
+    "id": "5511983949666@s.whatsapp.net",
+    "name": "Pai",
+    "lid": "110921858982086@lid"
+  },
+  {
+    "id": "5511967400761@s.whatsapp.net",
+    "name": "Osvaldo Fit Cinza 2004",
+    "lid": "102465135460426@lid"
+  },
+  {
+    "id": "5522999775533@s.whatsapp.net",
+    "name": "Wanessa Biohype",
+    "lid": "149546768289965@lid"
+  },
+  {
+    "id": "5511978478253@s.whatsapp.net",
+    "name": "Lau",
+    "lid": "264832565678091@lid"
+  },
+  {
+    "id": "5511957171736@s.whatsapp.net",
+    "name": "Junior Jp",
+    "lid": "137108274565348@lid"
+  },
+  {
+    "id": "5512981855399@s.whatsapp.net",
+    "name": "Oliveria",
+    "lid": "125847306510360@lid"
+  },
+  {
+    "id": "5512988983601@s.whatsapp.net",
+    "name": "Priscila Faustino",
+    "lid": "246256328802394@lid"
+  },
+  {
+    "id": "554797393500@s.whatsapp.net",
+    "name": "Orlando Martins Cliente",
+    "lid": "230541295141047@lid"
+  },
+  {
+    "id": "553591125954@s.whatsapp.net",
+    "name": "Cliente Extreme Rock",
+    "lid": "135102642257999@lid"
+  },
+  {
+    "id": "5511969131498@s.whatsapp.net",
+    "name": "Tio Junior",
+    "lid": "240896243142879@lid"
+  },
+  {
+    "id": "5511959984048@s.whatsapp.net",
+    "name": "Davi",
+    "lid": "103693546422511@lid"
+  },
+  {
+    "id": "5511962070734@s.whatsapp.net",
+    "name": "Marcos Paulo Cliente",
+    "lid": "138989503774851@lid"
+  },
+  {
+    "id": "5511941659831@s.whatsapp.net",
+    "name": "Lari Gui",
+    "lid": "179954935447712@lid"
+  },
+  {
+    "id": "5511959597814@s.whatsapp.net",
+    "name": "Getulio Antonio",
+    "lid": "157492273225944@lid"
+  },
+  {
+    "id": "5511974252399@s.whatsapp.net",
+    "name": "Imad 25",
+    "lid": "27290373242941@lid"
+  },
+  {
+    "id": "5511984081166@s.whatsapp.net",
+    "name": "Alemao Bicicletaria",
+    "lid": "206545128263687@lid"
+  },
+  {
+    "id": "5511983076543@s.whatsapp.net",
+    "name": "Laura Beatriz",
+    "lid": "173349242183747@lid"
+  },
+  {
+    "id": "553492771384@s.whatsapp.net",
+    "name": "Wesley Biohype",
+    "lid": "161155880345727@lid"
+  },
+  {
+    "id": "5512981232797@s.whatsapp.net",
+    "name": "Silvia Nunes Corretora",
+    "lid": "228548262494400@lid"
+  },
+  {
+    "id": "5511949594963@s.whatsapp.net",
+    "name": "Thiaguinho Duro",
+    "lid": "253733900423414@lid"
+  },
+  {
+    "id": "5511954517089@s.whatsapp.net",
+    "name": "Ingra",
+    "lid": "177421005361209@lid"
+  },
+  {
+    "id": "5511978785896@s.whatsapp.net",
+    "name": "Suprema Modas",
+    "lid": "212085602525316@lid"
+  },
+  {
+    "id": "5511940682450@s.whatsapp.net",
+    "name": "Carol Ophicina",
+    "lid": "108422791958648@lid"
+  },
+  {
+    "id": "5511940803050@s.whatsapp.net",
+    "name": "Renato",
+    "lid": "95000532652286@lid"
+  },
+  {
+    "id": "554896703540@s.whatsapp.net",
+    "name": "Vinicius Melo Cliente",
+    "lid": "19443434434658@lid"
+  },
+  {
+    "id": "5511966791461@s.whatsapp.net",
+    "name": "Tiao ",
+    "lid": "199256484929582@lid"
+  },
+  {
+    "id": "5511988826339@s.whatsapp.net",
+    "name": "Tauan Araujo Programador",
+    "lid": "122415308894296@lid"
+  },
+  {
+    "id": "5511910747399@s.whatsapp.net",
+    "name": "Moda Hospitalar Jaleco",
+    "lid": "116436714430651@lid"
+  },
+  {
+    "id": "554991266105@s.whatsapp.net",
+    "name": "Lucas Rita Cliente",
+    "lid": "59781767274606@lid"
+  },
+  {
+    "id": "5511948475661@s.whatsapp.net",
+    "name": "Taina ✨ D. Prado",
+    "lid": "144461359218709@lid"
+  },
+  {
+    "id": "5511949616657@s.whatsapp.net",
+    "name": "Renato Fisio",
+    "lid": "94115719073867@lid"
+  },
+  {
+    "id": "5511964036300@s.whatsapp.net",
+    "name": "Queda Livre Paraquedismo",
+    "lid": "49564056817669@lid"
+  },
+  {
+    "id": "5511965716093@s.whatsapp.net",
+    "name": "Mario",
+    "lid": "144822102974551@lid"
+  },
+  {
+    "id": "5511984357696@s.whatsapp.net",
+    "name": "Kinho",
+    "lid": "98968998572224@lid"
+  },
+  {
+    "id": "5511983588868@s.whatsapp.net",
+    "name": "Bruno Farah Gerente  Shopee",
+    "lid": "14942241554600@lid"
+  },
+  {
+    "id": "5511964661521@s.whatsapp.net",
+    "name": "Adriano Cross",
+    "lid": "20908001521761@lid"
+  },
+  {
+    "id": "5511940762551@s.whatsapp.net",
+    "name": "Amor Antigo",
+    "lid": "104480028782623@lid"
+  },
+  {
+    "id": "554188610954@s.whatsapp.net",
+    "name": "Patric Yeezy 42",
+    "lid": "21822728839367@lid"
+  },
+  {
+    "id": "553187350773@s.whatsapp.net",
+    "name": "Marilene Da Conceição Men Cliente",
+    "lid": "66116793688188@lid"
+  },
+  {
+    "id": "5511952544413@s.whatsapp.net",
+    "name": "Imperio Do Acai",
+    "lid": "174024055324731@lid"
+  },
+  {
+    "id": "5511952901365@s.whatsapp.net",
+    "name": "Jessica",
+    "lid": "117454537777393@lid"
+  },
+  {
+    "id": "5511984398430@s.whatsapp.net",
+    "name": "‪984398430‬",
+    "lid": "218145885262007@lid"
+  },
+  {
+    "id": "5511993660114@s.whatsapp.net",
+    "name": "Devolucao j3",
+    "lid": "120297940328455@lid"
+  },
+  {
+    "id": "5511957226744@s.whatsapp.net",
+    "name": "Rhayane Viana",
+    "lid": "48271623999688@lid"
+  },
+  {
+    "id": "5511997692965@s.whatsapp.net",
+    "name": "Quedã",
+    "lid": "30155149975604@lid"
+  },
+  {
+    "id": "553186478065@s.whatsapp.net",
+    "name": "Jefferson Tomaz Atacado",
+    "lid": "188939990229134@lid"
+  },
+  {
+    "id": "5511984993403@s.whatsapp.net",
+    "name": "Jwe Confecçoões Legging",
+    "lid": "250886387413044@lid"
+  },
+  {
+    "id": "5511996865355@s.whatsapp.net",
+    "name": "Bia Prima",
+    "lid": "224253144227884@lid"
+  },
+  {
+    "id": "554498430767@s.whatsapp.net",
+    "name": "Daniel Occulate Cliente",
+    "lid": "211621695721717@lid"
+  },
+  {
+    "id": "553199263485@s.whatsapp.net",
+    "name": "Márcio Biohype",
+    "lid": "158054846869728@lid"
+  },
+  {
+    "id": "32483178226@s.whatsapp.net",
+    "name": "Neto",
+    "lid": "89708998742129@lid"
+  },
+  {
+    "id": "5512997926037@s.whatsapp.net",
+    "name": "Ana Cristina Cliente",
+    "lid": "79186697924699@lid"
+  },
+  {
+    "id": "5512997534628@s.whatsapp.net",
+    "name": "Elano Gas",
+    "lid": "61804763943001@lid"
+  },
+  {
+    "id": "5511985359835@s.whatsapp.net",
+    "name": "Mazinho",
+    "lid": "26689027440789@lid"
+  },
+  {
+    "id": "5521986532674@s.whatsapp.net",
+    "name": "Lu Ferreira Vetendócrino",
+    "lid": "161005506142424@lid"
+  },
+  {
+    "id": "5511973754030@s.whatsapp.net",
+    "name": "Frangao",
+    "lid": "175131670409261@lid"
+  },
+  {
+    "id": "559292636585@s.whatsapp.net",
+    "name": "Davide Biohype",
+    "lid": "61607161925733@lid"
+  },
+  {
+    "id": "5511983986913@s.whatsapp.net",
+    "name": "Andreia Clara",
+    "lid": "54932665299199@lid"
+  },
+  {
+    "id": "5521997994340@s.whatsapp.net",
+    "name": "fernandinhocesarbr Cliente",
+    "lid": "93450083020809@lid"
+  },
+  {
+    "id": "5519992505861@s.whatsapp.net",
+    "name": "Bárbara Freitas Atacado",
+    "lid": "91182340255913@lid"
+  },
+  {
+    "id": "5511962561241@s.whatsapp.net",
+    "name": "Fabiano Assistencia",
+    "lid": "82493520752699@lid"
+  },
+  {
+    "id": "5514998514643@s.whatsapp.net",
+    "name": "Eliana Souza Cliente",
+    "lid": "43654467063906@lid"
+  },
+  {
+    "id": "5512997473023@s.whatsapp.net",
+    "name": "Andy Blablacar",
+    "lid": "139715403620453@lid"
+  },
+  {
+    "id": "5511985101533@s.whatsapp.net",
+    "name": "Ap Mix Andar 11",
+    "lid": "123128307015795@lid"
+  },
+  {
+    "id": "5511993173985@s.whatsapp.net",
+    "name": "Rogerio Futvolei",
+    "lid": "68775328092298@lid"
+  },
+  {
+    "id": "559281250893@s.whatsapp.net",
+    "name": "Diana Abreu Cliente",
+    "lid": "152080631226368@lid"
+  },
+  {
+    "id": "554791961965@s.whatsapp.net",
+    "name": "Sirio",
+    "lid": "140097622135000@lid"
+  },
+  {
+    "id": "5511965117978@s.whatsapp.net",
+    "name": "Victir Modas 23",
+    "lid": "63702971752617@lid"
+  },
+  {
+    "id": "5511997215346@s.whatsapp.net",
+    "name": "Mauricio Jr",
+    "lid": "262220671881336@lid"
+  },
+  {
+    "id": "557199118714@s.whatsapp.net",
+    "name": "Cliente Nk Azul",
+    "lid": "94601654366349@lid"
+  },
+  {
+    "id": "551127211382@s.whatsapp.net",
+    "name": "Dio Mio",
+    "lid": "81256536641577@lid"
+  },
+  {
+    "id": "5511983489278@s.whatsapp.net",
+    "name": "Willian Primo",
+    "lid": "64257643303150@lid"
+  },
+  {
+    "id": "5511949535078@s.whatsapp.net",
+    "name": "Felipe Rua",
+    "lid": "203362507174022@lid"
+  },
+  {
+    "id": "5511986473087@s.whatsapp.net",
+    "name": "Vagner Rua",
+    "lid": "152548782669824@lid"
+  },
+  {
+    "id": "5511964811585@s.whatsapp.net",
+    "name": "Paulo Uber",
+    "lid": "59614280347693@lid"
+  },
+  {
+    "id": "5511940160151@s.whatsapp.net",
+    "name": "Guinchoo",
+    "lid": "196610785018000@lid"
+  },
+  {
+    "id": "5511952772684@s.whatsapp.net",
+    "name": "Val",
+    "lid": "146677545582613@lid"
+  },
+  {
+    "id": "5511969792462@s.whatsapp.net",
+    "name": "Marcelo Sermuksnis Cliente",
+    "lid": "47103107711176@lid"
+  },
+  {
+    "id": "5511983007056@s.whatsapp.net",
+    "name": "Lorena Cargo China",
+    "lid": "182330404675639@lid"
+  },
+  {
+    "id": "5511987774990@s.whatsapp.net",
+    "name": "Lívia Rosa",
+    "lid": "67748847685700@lid"
+  },
+  {
+    "id": "5511972517028@s.whatsapp.net",
+    "name": "Germano Burg",
+    "lid": "158707748991071@lid"
+  },
+  {
+    "id": "5511966428932@s.whatsapp.net",
+    "name": "298 Perfume",
+    "lid": "242910599639043@lid"
+  },
+  {
+    "id": "5521995960495@s.whatsapp.net",
+    "name": "Conhecer A Verdade E Ela Cliente",
+    "lid": "155164635832527@lid"
+  },
+  {
+    "id": "557192809713@s.whatsapp.net",
+    "name": "Cliente Bn- 71",
+    "lid": "189348096004139@lid"
+  },
+  {
+    "id": "5511933652814@s.whatsapp.net",
+    "name": "Marcos 25 Tenis 40$",
+    "lid": "121693670502591@lid"
+  },
+  {
+    "id": "5511940754569@s.whatsapp.net",
+    "name": "Camila Primavera",
+    "lid": "271369120026791@lid"
+  },
+  {
+    "id": "5521981862356@s.whatsapp.net",
+    "name": "Thaís Biohype",
+    "lid": "9483438788662@lid"
+  },
+  {
+    "id": "5511974976432@s.whatsapp.net",
+    "name": "Marcos China",
+    "lid": "111506041606344@lid"
+  },
+  {
+    "id": "553591482737@s.whatsapp.net",
+    "name": "Andre Aelo Cantor",
+    "lid": "138053284835407@lid"
+  },
+  {
+    "id": "5511962120203@s.whatsapp.net",
+    "name": "Xavi Modas Fornecedor",
+    "lid": "196348775252216@lid"
+  },
+  {
+    "id": "5511951480720@s.whatsapp.net",
+    "name": "Gi Cargo China",
+    "lid": "252724717326591@lid"
+  },
+  {
+    "id": "5511980799227@s.whatsapp.net",
+    "name": "Confecçoes JBF",
+    "lid": "190666533515453@lid"
+  },
+  {
+    "id": "5511949614557@s.whatsapp.net",
+    "name": "Gabriel Costura",
+    "lid": "50367249293559@lid"
+  },
+  {
+    "id": "5511957885592@s.whatsapp.net",
+    "name": "Wellington Adv",
+    "lid": "275187362717913@lid"
+  },
+  {
+    "id": "5511965666950@s.whatsapp.net",
+    "name": "G T R Multimarcas Cliente",
+    "lid": "104402618732794@lid"
+  },
+  {
+    "id": "5511948832056@s.whatsapp.net",
+    "name": "Zindios",
+    "lid": "187316442279959@lid"
+  },
+  {
+    "id": "5511962326422@s.whatsapp.net",
+    "name": "LUCAS Cliente",
+    "lid": "159424958193768@lid"
+  },
+  {
+    "id": "5511947714352@s.whatsapp.net",
+    "name": "Leo 🦆",
+    "lid": "141983196688570@lid"
+  },
+  {
+    "id": "5511948241712@s.whatsapp.net",
+    "name": "Reniele Montei",
+    "lid": "56324368937089@lid"
+  },
+  {
+    "id": "5511959372288@s.whatsapp.net",
+    "name": "Gui Passarello",
+    "lid": "117660712992995@lid"
+  },
+  {
+    "id": "5511916309979@s.whatsapp.net",
+    "name": "Graninha",
+    "lid": "13087235158037@lid"
+  },
+  {
+    "id": "5511971144599@s.whatsapp.net",
+    "name": "Jeferson Cliente",
+    "lid": "132233537036315@lid"
+  },
+  {
+    "id": "5511978544937@s.whatsapp.net",
+    "name": "J3 Flex - MESA.",
+    "lid": "236661388644355@lid"
+  },
+  {
+    "id": "5511954791728@s.whatsapp.net",
+    "name": "Fornecedor Jack Cell",
+    "lid": "45754404069622@lid"
+  },
+  {
+    "id": "553491308761@s.whatsapp.net",
+    "name": "Edna Cliente",
+    "lid": "200527845535904@lid"
+  },
+  {
+    "id": "5511996792143@s.whatsapp.net",
+    "name": "Polo Eletronicos page 10 andar loja 103",
+    "lid": "114688629186693@lid"
+  },
+  {
+    "id": "5511982627202@s.whatsapp.net",
+    "name": "Leonardo Lima Treino",
+    "lid": "91036227510310@lid"
+  },
+  {
+    "id": "554991522539@s.whatsapp.net",
+    "name": "Sueli Cliente",
+    "lid": "45887950721197@lid"
+  },
+  {
+    "id": "5511975959536@s.whatsapp.net",
+    "name": "Letão",
+    "lid": "222960795312248@lid"
+  },
+  {
+    "id": "5511983790487@s.whatsapp.net",
+    "name": "Bru Caetano",
+    "lid": "40858174943251@lid"
+  },
+  {
+    "id": "5511945385665@s.whatsapp.net",
+    "name": "Luana Rifa",
+    "lid": "33956380602381@lid"
+  },
+  {
+    "id": "5511959320200@s.whatsapp.net",
+    "name": "‪959320200‬",
+    "lid": "251548013752537@lid"
+  },
+  {
+    "id": "5511975559780@s.whatsapp.net",
+    "name": "Márcio Seguro",
+    "lid": "15792645132395@lid"
+  },
+  {
+    "id": "5511966475480@s.whatsapp.net",
+    "name": "Kaio Correa ",
+    "lid": "270428387954943@lid"
+  },
+  {
+    "id": "5517991311779@s.whatsapp.net",
+    "name": "Derci Cliente",
+    "lid": "111248410714360@lid"
+  },
+  {
+    "id": "556281668750@s.whatsapp.net",
+    "name": "Thamires Afiliada",
+    "lid": "34132256125033@lid"
+  },
+  {
+    "id": "5511978701469@s.whatsapp.net",
+    "name": "Isa Ecom",
+    "lid": "25632381640805@lid"
+  },
+  {
+    "id": "554891777471@s.whatsapp.net",
+    "name": "Fall Mascara",
+    "lid": "231907430240337@lid"
+  },
+  {
+    "id": "5511967739123@s.whatsapp.net",
+    "name": "Rosana Mix 1",
+    "lid": "154532940144778@lid"
+  },
+  {
+    "id": "5511988058793@s.whatsapp.net",
+    "name": "Moveis Araujo",
+    "lid": "148983875923974@lid"
+  },
+  {
+    "id": "554896832687@s.whatsapp.net",
+    "name": "Ricardo Biohype",
+    "lid": "243430324203528@lid"
+  },
+  {
+    "id": "5511972530353@s.whatsapp.net",
+    "name": "Kevin Skate Ceu",
+    "lid": "51934895538290@lid"
+  },
+  {
+    "id": "5511986291459@s.whatsapp.net",
+    "name": "Valdir MN Tecido",
+    "lid": "71142006120503@lid"
+  },
+  {
+    "id": "5511968326596@s.whatsapp.net",
+    "name": "Limacks Vestido Tie Dai",
+    "lid": "8276552982601@lid"
+  },
+  {
+    "id": "5511913303865@s.whatsapp.net",
+    "name": "Tatiane Gestora Shopee",
+    "lid": "275557132566562@lid"
+  },
+  {
+    "id": "5516994014934@s.whatsapp.net",
+    "name": "Ederson Cliente",
+    "lid": "105768367960301@lid"
+  },
+  {
+    "id": "559185899888@s.whatsapp.net",
+    "name": "Cliente Bn- 91",
+    "lid": "257045823537206@lid"
+  },
+  {
+    "id": "5511985493694@s.whatsapp.net",
+    "name": "Venceslau",
+    "lid": "110247683346518@lid"
+  },
+  {
+    "id": "5511999501476@s.whatsapp.net",
+    "name": "Paulo Sogro 🚲",
+    "lid": "52012188192796@lid"
+  },
+  {
+    "id": "5512996597209@s.whatsapp.net",
+    "name": "Sttilo 03",
+    "lid": "159953205608667@lid"
+  },
+  {
+    "id": "5511987362229@s.whatsapp.net",
+    "name": "Dani Rapha",
+    "lid": "11252881465438@lid"
+  },
+  {
+    "id": "5511999726669@s.whatsapp.net",
+    "name": "Cibelle",
+    "lid": "153334677786732@lid"
+  },
+  {
+    "id": "5511978775192@s.whatsapp.net",
+    "name": "I30 Cw",
+    "lid": "19933144551448@lid"
+  },
+  {
+    "id": "553193089660@s.whatsapp.net",
+    "name": "Maria Belico Cliente",
+    "lid": "103070776189042@lid"
+  },
+  {
+    "id": "553192319254@s.whatsapp.net",
+    "name": "Ivan Nunes Cliente",
+    "lid": "182519047680187@lid"
+  },
+  {
+    "id": "5511999801734@s.whatsapp.net",
+    "name": "GR Simone BV",
+    "lid": "243198714765506@lid"
+  },
+  {
+    "id": "555195652694@s.whatsapp.net",
+    "name": "Joilson",
+    "lid": "52661063811073@lid"
+  },
+  {
+    "id": "5511972644460@s.whatsapp.net",
+    "name": "José Luiz Cliente",
+    "lid": "248940683358322@lid"
+  },
+  {
+    "id": "5511982361951@s.whatsapp.net",
+    "name": "Alyson",
+    "lid": "14237984391195@lid"
+  },
+  {
+    "id": "5511940035824@s.whatsapp.net",
+    "name": "Joca",
+    "lid": "97934012076238@lid"
+  },
+  {
+    "id": "5511934904747@s.whatsapp.net",
+    "name": "sergio Biohype",
+    "lid": "92827212075186@lid"
+  },
+  {
+    "id": "5511953720354@s.whatsapp.net",
+    "name": "Vitor Primo",
+    "lid": "10325285941347@lid"
+  },
+  {
+    "id": "5511960290693@s.whatsapp.net",
+    "name": "Confeccoes Meow",
+    "lid": "253283230855266@lid"
+  },
+  {
+    "id": "5511966325959@s.whatsapp.net",
+    "name": "‪966325959‬",
+    "lid": "101022009684164@lid"
+  },
+  {
+    "id": "5519982850296@s.whatsapp.net",
+    "name": "Rodrigo Skt",
+    "lid": "180594935889950@lid"
+  },
+  {
+    "id": "5511958542382@s.whatsapp.net",
+    "name": "Nilma Modas",
+    "lid": "52003531141355@lid"
+  },
+  {
+    "id": "5511991405342@s.whatsapp.net",
+    "name": "Jair",
+    "lid": "224867660116086@lid"
+  },
+  {
+    "id": "5514998831967@s.whatsapp.net",
+    "name": "Gabriel imporio  Cliente",
+    "lid": "12387289714906@lid"
+  },
+  {
+    "id": "5511992371336@s.whatsapp.net",
+    "name": "Reactor",
+    "lid": "40407606010079@lid"
+  },
+  {
+    "id": "5511959279570@s.whatsapp.net",
+    "name": "Gabriel Ray",
+    "lid": "125945704886347@lid"
+  },
+  {
+    "id": "5511993045139@s.whatsapp.net",
+    "name": "Leticia Ip Oriental",
+    "lid": "163071771295810@lid"
+  },
+  {
+    "id": "5519994311054@s.whatsapp.net",
+    "name": "Franciele Vasconcelos Cliente",
+    "lid": "112081516949532@lid"
+  },
+  {
+    "id": "5511961276769@s.whatsapp.net",
+    "name": "Sr Geraldo Vidro",
+    "lid": "201318186643646@lid"
+  },
+  {
+    "id": "5521971684380@s.whatsapp.net",
+    "name": "Ana Cliente 21",
+    "lid": "173718676443191@lid"
+  },
+  {
+    "id": "5511983953245@s.whatsapp.net",
+    "name": "Flavinho",
+    "lid": "116385107734683@lid"
+  },
+  {
+    "id": "5511940216783@s.whatsapp.net",
+    "name": "Assistencia Elgin",
+    "lid": "29167223587052@lid"
+  },
+  {
+    "id": "553298386297@s.whatsapp.net",
+    "name": "Pk Soares Atacado",
+    "lid": "166511721324639@lid"
+  },
+  {
+    "id": "5511977836569@s.whatsapp.net",
+    "name": "Nenem Zoio",
+    "lid": "80702536159469@lid"
+  },
+  {
+    "id": "5511947456450@s.whatsapp.net",
+    "name": "Condomínio ",
+    "lid": "202314535166135@lid"
+  },
+  {
+    "id": "554799561870@s.whatsapp.net",
+    "name": "Danny Carvalho OSTENTATION",
+    "lid": "207915239620816@lid"
+  },
+  {
+    "id": "5511958380404@s.whatsapp.net",
+    "name": "Expelress Assistencia",
+    "lid": "117283326279681@lid"
+  },
+  {
+    "id": "5511947414790@s.whatsapp.net",
+    "name": "Rodolfo Fit 2007",
+    "lid": "238194742272124@lid"
+  },
+  {
+    "id": "5516997511878@s.whatsapp.net",
+    "name": "Lukas Shopee",
+    "lid": "149018252456190@lid"
+  },
+  {
+    "id": "5511940052473@s.whatsapp.net",
+    "name": "Eduardo Calhau",
+    "lid": "103087972831271@lid"
+  },
+  {
+    "id": "5517996298100@s.whatsapp.net",
+    "name": "Deus esta  no controle... Cliente",
+    "lid": "111703559827488@lid"
+  },
+  {
+    "id": "5511942634294@s.whatsapp.net",
+    "name": "Renata",
+    "lid": "242893352616011@lid"
+  },
+  {
+    "id": "5521976019358@s.whatsapp.net",
+    "name": "Fashion 5.2.0.hora Certa Cliente",
+    "lid": "272915509559509@lid"
+  },
+  {
+    "id": "5511990053616@s.whatsapp.net",
+    "name": "Samuel Pista",
+    "lid": "205394311925777@lid"
+  },
+  {
+    "id": "5511986541970@s.whatsapp.net",
+    "name": "José Roberto Cliente",
+    "lid": "75660328489118@lid"
+  },
+  {
+    "id": "5511994249823@s.whatsapp.net",
+    "name": "Phone Link",
+    "lid": "267765524996333@lid"
+  },
+  {
+    "id": "5511968350752@s.whatsapp.net",
+    "name": "Sandrinho",
+    "lid": "208928885477593@lid"
+  },
+  {
+    "id": "5519997557967@s.whatsapp.net",
+    "name": "Olga Cliente",
+    "lid": "125670826987699@lid"
+  },
+  {
+    "id": "5511962482535@s.whatsapp.net",
+    "name": "Elton Vidraceiro ",
+    "lid": "121968531636395@lid"
+  },
+  {
+    "id": "5511987589184@s.whatsapp.net",
+    "name": "Roots Guto",
+    "lid": "163462210707631@lid"
+  },
+  {
+    "id": "5511954486005@s.whatsapp.net",
+    "name": "Renato Sapão",
+    "lid": "253879962845339@lid"
+  },
+  {
+    "id": "556796754585@s.whatsapp.net",
+    "name": "Mina Tokyo ????",
+    "lid": "202735408382160@lid"
+  },
+  {
+    "id": "5519988262617@s.whatsapp.net",
+    "name": "Inalva",
+    "lid": "226555380932814@lid"
+  },
+  {
+    "id": "553497928086@s.whatsapp.net",
+    "name": "Alessandra Cliente",
+    "lid": "278047592829168@lid"
+  },
+  {
+    "id": "5511951945302@s.whatsapp.net",
+    "name": "Rafael Vieira",
+    "lid": "244284955599032@lid"
+  },
+  {
+    "id": "5511945482019@s.whatsapp.net",
+    "name": "@Adriana Fortunato Cliente",
+    "lid": "22359666884624@lid"
+  },
+  {
+    "id": "5511985966987@s.whatsapp.net",
+    "name": "Sergio Tabacaria",
+    "lid": "271059731407047@lid"
+  },
+  {
+    "id": "5511947116794@s.whatsapp.net",
+    "name": "Dudu Mec Mecanico",
+    "lid": "275840046788681@lid"
+  },
+  {
+    "id": "5511970617087@s.whatsapp.net",
+    "name": "José Biohype",
+    "lid": "266227909935142@lid"
+  },
+  {
+    "id": "5511962660541@s.whatsapp.net",
+    "name": "Quebrada",
+    "lid": "60498942894222@lid"
+  },
+  {
+    "id": "5511937394199@s.whatsapp.net",
+    "name": "Isa-a Cargo Feminina",
+    "lid": "211462849089768@lid"
+  },
+  {
+    "id": "5511963589870@s.whatsapp.net",
+    "name": "Jaqueta Couro Fornecedor",
+    "lid": "27835901153450@lid"
+  },
+  {
+    "id": "554197291006@s.whatsapp.net",
+    "name": "Jeh Cliente",
+    "lid": "22613556510763@lid"
+  },
+  {
+    "id": "5511982981779@s.whatsapp.net",
+    "name": "Anderson Xavier N8n",
+    "lid": "259274458579079@lid"
+  },
+  {
+    "id": "5511949539543@s.whatsapp.net",
+    "name": "Nilson Pinheiro 🌲",
+    "lid": "159609692147953@lid"
+  },
+  {
+    "id": "5511957201779@s.whatsapp.net",
+    "name": "Fragorio Oficina Costura",
+    "lid": "186917077393510@lid"
+  },
+  {
+    "id": "5524992232882@s.whatsapp.net",
+    "name": "Pizza Angra",
+    "lid": "12889213694103@lid"
+  },
+  {
+    "id": "553799959446@s.whatsapp.net",
+    "name": "Maria Cliente",
+    "lid": "64880145121428@lid"
+  },
+  {
+    "id": "556286355488@s.whatsapp.net",
+    "name": "Enara N. F Anda",
+    "lid": "32152309743679@lid"
+  },
+  {
+    "id": "5511969041276@s.whatsapp.net",
+    "name": "Estefane Vendedora",
+    "lid": "265794168561754@lid"
+  },
+  {
+    "id": "5512997664318@s.whatsapp.net",
+    "name": "Robson Futvolei",
+    "lid": "157002797969412@lid"
+  },
+  {
+    "id": "5511986839548@s.whatsapp.net",
+    "name": "Egberto",
+    "lid": "31555292549336@lid"
+  },
+  {
+    "id": "5511944525533@s.whatsapp.net",
+    "name": "Tio Genildo",
+    "lid": "24923779166272@lid"
+  },
+  {
+    "id": "558796285055@s.whatsapp.net",
+    "name": "DANIEL DAS CONTAS",
+    "lid": "110492831993994@lid"
+  },
+  {
+    "id": "5511981404967@s.whatsapp.net",
+    "name": "Shock Skatebord",
+    "lid": "35738490032168@lid"
+  },
+  {
+    "id": "5511981200175@s.whatsapp.net",
+    "name": "Vestidos Canelado 01",
+    "lid": "119580546613369@lid"
+  },
+  {
+    "id": "5511983268736@s.whatsapp.net",
+    "name": "Cliente Yeezy Branco",
+    "lid": "263414807040041@lid"
+  },
+  {
+    "id": "5511988475470@s.whatsapp.net",
+    "name": "Raizze Marcas E Patentes",
+    "lid": "31963381534884@lid"
+  },
+  {
+    "id": "5511996115057@s.whatsapp.net",
+    "name": "zenaidepedroso Cliente",
+    "lid": "170420158390497@lid"
+  },
+  {
+    "id": "5511998284990@s.whatsapp.net",
+    "name": "Higor Mg",
+    "lid": "162577497743495@lid"
+  },
+  {
+    "id": "5511994526843@s.whatsapp.net",
+    "name": "Bruno Cruz Agencia",
+    "lid": "87871440564273@lid"
+  },
+  {
+    "id": "5511961468293@s.whatsapp.net",
+    "name": "Renan 🛹",
+    "lid": "54533719859320@lid"
+  },
+  {
+    "id": "553899361707@s.whatsapp.net",
+    "name": "Maycon Cliente 38",
+    "lid": "103508778987726@lid"
+  },
+  {
+    "id": "5511983942680@s.whatsapp.net",
+    "name": "Lanche Esquina",
+    "lid": "168620550279202@lid"
+  },
+  {
+    "id": "5511984525024@s.whatsapp.net",
+    "name": "Drica Lima",
+    "lid": "250774667952326@lid"
+  },
+  {
+    "id": "5511965430218@s.whatsapp.net",
+    "name": "Marta Cliente Cargo",
+    "lid": "68208476332090@lid"
+  },
+  {
+    "id": "5511942467580@s.whatsapp.net",
+    "name": "Impressao Av Latinos",
+    "lid": "143993191010479@lid"
+  },
+  {
+    "id": "5511948639795@s.whatsapp.net",
+    "name": "Maria Ôrdaisa Viei",
+    "lid": "176897002602513@lid"
+  },
+  {
+    "id": "5511970301769@s.whatsapp.net",
+    "name": "‪970301769‬",
+    "lid": "134582884155622@lid"
+  },
+  {
+    "id": "553299751645@s.whatsapp.net",
+    "name": "JesusAS Cliente",
+    "lid": "189481558741212@lid"
+  },
+  {
+    "id": "5511940286001@s.whatsapp.net",
+    "name": "Junior Maria Gueixa",
+    "lid": "55834692317379@lid"
+  },
+  {
+    "id": "5511959302078@s.whatsapp.net",
+    "name": "Erica Lan Contadora",
+    "lid": "3865520947262@lid"
+  },
+  {
+    "id": "5511972263062@s.whatsapp.net",
+    "name": "Banho Tosa R Baixo",
+    "lid": "158450000621822@lid"
+  },
+  {
+    "id": "5511933103277@s.whatsapp.net",
+    "name": "Mauricio Coleta J3",
+    "lid": "73959521390693@lid"
+  },
+  {
+    "id": "5517997055220@s.whatsapp.net",
+    "name": "Marcelo Biohype",
+    "lid": "13649557119050@lid"
+  },
+  {
+    "id": "5511970111720@s.whatsapp.net",
+    "name": "Alan 🧙🏻‍♂️",
+    "lid": "21930153382075@lid"
+  },
+  {
+    "id": "5511954062862@s.whatsapp.net",
+    "name": "Vanessa Coleta",
+    "lid": "125473342373995@lid"
+  },
+  {
+    "id": "5511978531757@s.whatsapp.net",
+    "name": "marry Cliente",
+    "lid": "250663401484395@lid"
+  },
+  {
+    "id": "5511940202900@s.whatsapp.net",
+    "name": "Aline Montrose",
+    "lid": "73100444049465@lid"
+  },
+  {
+    "id": "554988941805@s.whatsapp.net",
+    "name": "Marisa Cliente",
+    "lid": "105605024981026@lid"
+  },
+  {
+    "id": "5511965080784@s.whatsapp.net",
+    "name": "Biquíni",
+    "lid": "101228637863963@lid"
+  },
+  {
+    "id": "5511979916729@s.whatsapp.net",
+    "name": "Rafael Primo",
+    "lid": "180444612038833@lid"
+  },
+  {
+    "id": "5511946126805@s.whatsapp.net",
+    "name": "Rogério Mec",
+    "lid": "190116794511440@lid"
+  },
+  {
+    "id": "16502234435@s.whatsapp.net",
+    "name": "Dola AI",
+    "lid": "163166277398780@lid"
+  },
+  {
+    "id": "5511976140637@s.whatsapp.net",
+    "name": "Izabel Porto DP",
+    "lid": "100390733393926@lid"
+  },
+  {
+    "id": "5511983193350@s.whatsapp.net",
+    "name": "Desbloqueio Iph",
+    "lid": "108344996053229@lid"
+  },
+  {
+    "id": "5511963653517@s.whatsapp.net",
+    "name": "Meg Xenon",
+    "lid": "191800522350802@lid"
+  },
+  {
+    "id": "5511958429057@s.whatsapp.net",
+    "name": "Lan Eric",
+    "lid": "107060700139542@lid"
+  },
+  {
+    "id": "5511947810189@s.whatsapp.net",
+    "name": "Ex Burger Lajeado",
+    "lid": "279550881738974@lid"
+  },
+  {
+    "id": "5511948773041@s.whatsapp.net",
+    "name": "~ Brunoiphone 11 Pro",
+    "lid": "119816820146242@lid"
+  },
+  {
+    "id": "5511983391315@s.whatsapp.net",
+    "name": "Kito",
+    "lid": "187024418017515@lid"
+  },
+  {
+    "id": "5511984848531@s.whatsapp.net",
+    "name": "Jm Saia Vinil Feirinha",
+    "lid": "224553926135852@lid"
+  },
+  {
+    "id": "553498184648@s.whatsapp.net",
+    "name": "Gustavo Amorim Atacado",
+    "lid": "127543382429821@lid"
+  },
+  {
+    "id": "5511946468400@s.whatsapp.net",
+    "name": "Place Design",
+    "lid": "262486993449137@lid"
+  },
+  {
+    "id": "5511983786330@s.whatsapp.net",
+    "name": "Dinho Iphone",
+    "lid": "41231820284092@lid"
+  },
+  {
+    "id": "5511947510033@s.whatsapp.net",
+    "name": "Matheus Bar",
+    "lid": "45024192499760@lid"
+  },
+  {
+    "id": "554199800436@s.whatsapp.net",
+    "name": "Denis Cliente 41",
+    "lid": "215126338707491@lid"
+  },
+  {
+    "id": "5511981685508@s.whatsapp.net",
+    "name": "Carreto Combi",
+    "lid": "147923102916737@lid"
+  },
+  {
+    "id": "5511952327774@s.whatsapp.net",
+    "name": "Marcelinho",
+    "lid": "274332597104645@lid"
+  },
+  {
+    "id": "554192334832@s.whatsapp.net",
+    "name": "Fabi Silva Cliente",
+    "lid": "46583232090320@lid"
+  },
+  {
+    "id": "5511999192726@s.whatsapp.net",
+    "name": "Thiago Flyer",
+    "lid": "171266216566944@lid"
+  },
+  {
+    "id": "5511959764103@s.whatsapp.net",
+    "name": "Le 🍁",
+    "lid": "186676508917975@lid"
+  },
+  {
+    "id": "5511993176703@s.whatsapp.net",
+    "name": "Mia",
+    "lid": "201378316185781@lid"
+  },
+  {
+    "id": "559984908521@s.whatsapp.net",
+    "name": "Kd A Graça",
+    "lid": "266653497589904@lid"
+  },
+  {
+    "id": "5511946010794@s.whatsapp.net",
+    "name": "Michelle Dos Santos Souza",
+    "lid": "183137506177194@lid"
+  },
+  {
+    "id": "5521992196220@s.whatsapp.net",
+    "name": "Aidamelo Cliente",
+    "lid": "146058952843341@lid"
+  },
+  {
+    "id": "5511933634331@s.whatsapp.net",
+    "name": "Letao",
+    "lid": "224854708101121@lid"
+  },
+  {
+    "id": "558586189796@s.whatsapp.net",
+    "name": "Marke",
+    "lid": "200618073448662@lid"
+  },
+  {
+    "id": "5511996509802@s.whatsapp.net",
+    "name": "❤️☺️ Cliente",
+    "lid": "278580202340478@lid"
+  },
+  {
+    "id": "5511932065593@s.whatsapp.net",
+    "name": "Debora Mercer",
+    "lid": "161160208867468@lid"
+  },
+  {
+    "id": "5511996644343@s.whatsapp.net",
+    "name": "Corretor Predio Curuca Darso",
+    "lid": "264106347073616@lid"
+  },
+  {
+    "id": "5519971197544@s.whatsapp.net",
+    "name": "Comprador Perf Wagner",
+    "lid": "108220307734668@lid"
+  },
+  {
+    "id": "5511975438540@s.whatsapp.net",
+    "name": "Kitnet Centro",
+    "lid": "257569222348982@lid"
+  },
+  {
+    "id": "554192434932@s.whatsapp.net",
+    "name": "Ananias Biohype",
+    "lid": "80474869362838@lid"
+  },
+  {
+    "id": "558189246872@s.whatsapp.net",
+    "name": "Cliente Bn 81",
+    "lid": "273116987175154@lid"
+  },
+  {
+    "id": "5511950334794@s.whatsapp.net",
+    "name": "Vanessa Biohype",
+    "lid": "71781889138762@lid"
+  },
+  {
+    "id": "5511951676640@s.whatsapp.net",
+    "name": "Gaby Dr",
+    "lid": "15333050073095@lid"
+  },
+  {
+    "id": "5521976483943@s.whatsapp.net",
+    "name": "Roberta Svather RJ",
+    "lid": "83691866976501@lid"
+  },
+  {
+    "id": "5511981958806@s.whatsapp.net",
+    "name": "Tainara",
+    "lid": "133835509465104@lid"
+  },
+  {
+    "id": "553898606744@s.whatsapp.net",
+    "name": "Lorran Cliente 38",
+    "lid": "250967891120277@lid"
+  },
+  {
+    "id": "5511940160147@s.whatsapp.net",
+    "name": "Carretos Aricanduva",
+    "lid": "209225070440496@lid"
+  },
+  {
+    "id": "5511950699354@s.whatsapp.net",
+    "name": "Raphaela Modas Fornecedor",
+    "lid": "97311191498815@lid"
+  },
+  {
+    "id": "558195364663@s.whatsapp.net",
+    "name": "Celllll",
+    "lid": "214336182182072@lid"
+  },
+  {
+    "id": "5511958510071@s.whatsapp.net",
+    "name": "Jairo santana",
+    "lid": "19941566754870@lid"
+  },
+  {
+    "id": "558196112965@s.whatsapp.net",
+    "name": "Janilene Afiliada",
+    "lid": "245083819507884@lid"
+  },
+  {
+    "id": "5511947783956@s.whatsapp.net",
+    "name": "Sofas Aricanduva",
+    "lid": "129068179714241@lid"
+  },
+  {
+    "id": "5513974114646@s.whatsapp.net",
+    "name": "Ed Guaruja Som ",
+    "lid": "201919633084656@lid"
+  },
+  {
+    "id": "553183918170@s.whatsapp.net",
+    "name": "꧁𝑹𝒊𝒄𝒂𝒓𝒅𝒐 𝑴𝒂𝒓𝒕𝒊𝒏𝒔꧂💯🇧🇷🎶 Cliente",
+    "lid": "46661078372597@lid"
+  },
+  {
+    "id": "5511986074189@s.whatsapp.net",
+    "name": "Gilmar MERCADO LIVRE",
+    "lid": "58407646191809@lid"
+  },
+  {
+    "id": "5511941625421@s.whatsapp.net",
+    "name": "Leonardo Clinica Mauad",
+    "lid": "266592982179997@lid"
+  },
+  {
+    "id": "551146764410@s.whatsapp.net",
+    "name": "Laudoo",
+    "lid": "59184984932398@lid"
+  },
+  {
+    "id": "5511992775379@s.whatsapp.net",
+    "name": "Kety K2u Modas",
+    "lid": "280534513098909@lid"
+  },
+  {
+    "id": "553799712477@s.whatsapp.net",
+    "name": "Maria Elisa Cliente",
+    "lid": "119224064299184@lid"
+  },
+  {
+    "id": "5511960692237@s.whatsapp.net",
+    "name": "Thiago Perfumes",
+    "lid": "8693500375130@lid"
+  },
+  {
+    "id": "5516994556906@s.whatsapp.net",
+    "name": "Luisa Matos Cliente",
+    "lid": "390942748750@lid"
+  },
+  {
+    "id": "5511998391855@s.whatsapp.net",
+    "name": "Elisângela Alves Cliente",
+    "lid": "194381697028151@lid"
+  },
+  {
+    "id": "5511986532165@s.whatsapp.net",
+    "name": "Malu",
+    "lid": "256340995915898@lid"
+  },
+  {
+    "id": "5511940716736@s.whatsapp.net",
+    "name": "940716736",
+    "lid": "194059574452430@lid"
+  },
+  {
+    "id": "5524999973556@s.whatsapp.net",
+    "name": "pedropmdinho60 Cliente",
+    "lid": "184701310488724@lid"
+  },
+  {
+    "id": "5522992398805@s.whatsapp.net",
+    "name": "By Noemi Papel E Malha Cliente",
+    "lid": "144354270261489@lid"
+  },
+  {
+    "id": "5511952538704@s.whatsapp.net",
+    "name": "Luana Praia ",
+    "lid": "139079714918531@lid"
+  },
+  {
+    "id": "353831288870@s.whatsapp.net",
+    "name": "Leticia kathrein",
+    "lid": "58703696912520@lid"
+  },
+  {
+    "id": "557199199513@s.whatsapp.net",
+    "name": "Beatriz Biohype",
+    "lid": "217746319126774@lid"
+  },
+  {
+    "id": "5511963525953@s.whatsapp.net",
+    "name": "Hiago",
+    "lid": "180586379530314@lid"
+  },
+  {
+    "id": "5511951181332@s.whatsapp.net",
+    "name": "Pc Game 1k",
+    "lid": "139985885913166@lid"
+  },
+  {
+    "id": "5511945076468@s.whatsapp.net",
+    "name": "Factory Attacado",
+    "lid": "173534043234332@lid"
+  },
+  {
+    "id": "551132303223@s.whatsapp.net",
+    "name": "Méqui Zap",
+    "lid": "174616291107054@lid"
+  },
+  {
+    "id": "5511946714241@s.whatsapp.net",
+    "name": "Regiane ",
+    "lid": "244964159721@lid"
+  },
+  {
+    "id": "5511996508755@s.whatsapp.net",
+    "name": "Ana Flavia",
+    "lid": "131421788197050@lid"
+  },
+  {
+    "id": "556799868383@s.whatsapp.net",
+    "name": "Antonio Biohype",
+    "lid": "50672057766121@lid"
+  },
+  {
+    "id": "5511997439595@s.whatsapp.net",
+    "name": "Bruno Comprador Ip SE",
+    "lid": "266206519005350@lid"
+  },
+  {
+    "id": "5511951931284@s.whatsapp.net",
+    "name": "1de",
+    "lid": "155400607408358@lid"
+  },
+  {
+    "id": "5511984994654@s.whatsapp.net",
+    "name": "Osmar",
+    "lid": "10243597676585@lid"
+  },
+  {
+    "id": "551133888000@s.whatsapp.net",
+    "name": "Sabesp",
+    "lid": "21698325827715@lid"
+  },
+  {
+    "id": "5511953814533@s.whatsapp.net",
+    "name": "Flávia Miranda Cliente",
+    "lid": "79628794368000@lid"
+  },
+  {
+    "id": "5514982152278@s.whatsapp.net",
+    "name": "Dora Cliente",
+    "lid": "232907671077007@lid"
+  },
+  {
+    "id": "5511981622864@s.whatsapp.net",
+    "name": "Claudinho",
+    "lid": "7249955135728@lid"
+  },
+  {
+    "id": "554888737345@s.whatsapp.net",
+    "name": "gonzalo Branha Cliete",
+    "lid": "20925298815084@lid"
+  },
+  {
+    "id": "5511911164496@s.whatsapp.net",
+    "name": "Escola Estadual Irene da Costa. Cliente",
+    "lid": "4170799177965@lid"
+  },
+  {
+    "id": "5511951956789@s.whatsapp.net",
+    "name": "Fornecedor Tenis  Maria",
+    "lid": "166516049899621@lid"
+  },
+  {
+    "id": "5511967601116@s.whatsapp.net",
+    "name": "Geladeira 260l",
+    "lid": "263796908105822@lid"
+  },
+  {
+    "id": "5511971499025@s.whatsapp.net",
+    "name": "Macbook de Leandro",
+    "lid": "191620234399997@lid"
+  },
+  {
+    "id": "5512991144821@s.whatsapp.net",
+    "name": "Cida Cardoso Cliente",
+    "lid": "18876498710592@lid"
+  },
+  {
+    "id": "551134484175@s.whatsapp.net",
+    "name": "Lirian Sasaqui",
+    "lid": "269393602805964@lid"
+  },
+  {
+    "id": "5514981110878@s.whatsapp.net",
+    "name": "Celma Cliente",
+    "lid": "32208094007444@lid"
+  },
+  {
+    "id": "553898043606@s.whatsapp.net",
+    "name": "Pauliana",
+    "lid": "169836042809484@lid"
+  },
+  {
+    "id": "5511945803697@s.whatsapp.net",
+    "name": "Renêeeeeee Churrasco",
+    "lid": "36481569698008@lid"
+  },
+  {
+    "id": "5527997905529@s.whatsapp.net",
+    "name": "FL KING CLOUD Iptv",
+    "lid": "186496220921976@lid"
+  },
+  {
+    "id": "554796279544@s.whatsapp.net",
+    "name": "Neriboneis Cliente 47",
+    "lid": "152282628919453@lid"
+  },
+  {
+    "id": "5511970501177@s.whatsapp.net",
+    "name": "Margarida Soares Soares",
+    "lid": "8663066534071@lid"
+  },
+  {
+    "id": "5511930750000@s.whatsapp.net",
+    "name": "Casa Berti Sesc 500$",
+    "lid": "272142079942830@lid"
+  },
+  {
+    "id": "5511949537811@s.whatsapp.net",
+    "name": "Loreda",
+    "lid": "45161614729386@lid"
+  },
+  {
+    "id": "5511961755626@s.whatsapp.net",
+    "name": "Mari Tinto",
+    "lid": "205780590534834@lid"
+  },
+  {
+    "id": "5511958740211@s.whatsapp.net",
+    "name": "Forne Jack Cell Novo",
+    "lid": "258286565765337@lid"
+  },
+  {
+    "id": "5524999296915@s.whatsapp.net",
+    "name": "Casa Ubatuba",
+    "lid": "201597225312303@lid"
+  },
+  {
+    "id": "5511958688630@s.whatsapp.net",
+    "name": "Dh Store Br",
+    "lid": "126821962129441@lid"
+  },
+  {
+    "id": "5511947537783@s.whatsapp.net",
+    "name": "Renato Contador",
+    "lid": "243975684415542@lid"
+  },
+  {
+    "id": "554199089210@s.whatsapp.net",
+    "name": "Fran Cliente",
+    "lid": "188536280105097@lid"
+  },
+  {
+    "id": "556992713459@s.whatsapp.net",
+    "name": "Matuzalem Silva",
+    "lid": "198058306486495@lid"
+  },
+  {
+    "id": "5511988885427@s.whatsapp.net",
+    "name": "Dudarj Fornecedor Moda Fem",
+    "lid": "206626682310906@lid"
+  },
+  {
+    "id": "5511977355877@s.whatsapp.net",
+    "name": "Kaio Coleta Neves",
+    "lid": "14569032405008@lid"
+  },
+  {
+    "id": "5511986167144@s.whatsapp.net",
+    "name": "Zuleide",
+    "lid": "235046397030462@lid"
+  },
+  {
+    "id": "5511987370838@s.whatsapp.net",
+    "name": "Abmam Casaco",
+    "lid": "269831504965729@lid"
+  },
+  {
+    "id": "554891316704@s.whatsapp.net",
+    "name": "Marcos Tatus Cliente",
+    "lid": "68165761560809@lid"
+  },
+  {
+    "id": "5511981869621@s.whatsapp.net",
+    "name": "Monique Ohana",
+    "lid": "206261660446796@lid"
+  },
+  {
+    "id": "5511952349899@s.whatsapp.net",
+    "name": "𝐷𝑜𝑢𝑔𝑙𝑎𝑠 Mac 20",
+    "lid": "92423451627710@lid"
+  },
+  {
+    "id": "5511979668800@s.whatsapp.net",
+    "name": "Walter Terreno",
+    "lid": "160752170180822@lid"
+  },
+  {
+    "id": "558185777840@s.whatsapp.net",
+    "name": "Ycaro Biohype",
+    "lid": "25168575520975@lid"
+  },
+  {
+    "id": "5511991061618@s.whatsapp.net",
+    "name": "Luis Caixa Etiqueta",
+    "lid": "179843266302096@lid"
+  },
+  {
+    "id": "5511987234829@s.whatsapp.net",
+    "name": "Restaurante Cazera",
+    "lid": "190168820613312@lid"
+  },
+  {
+    "id": "5521982684368@s.whatsapp.net",
+    "name": "Rudney Black",
+    "lid": "147768551145594@lid"
+  },
+  {
+    "id": "5511948589015@s.whatsapp.net",
+    "name": "Grillo 🦗",
+    "lid": "89352516440316@lid"
+  },
+  {
+    "id": "5511951936657@s.whatsapp.net",
+    "name": "Ruan ",
+    "lid": "254734627786828@lid"
+  },
+  {
+    "id": "5511996409614@s.whatsapp.net",
+    "name": "Raquel Modas Cliente",
+    "lid": "14302257881127@lid"
+  },
+  {
+    "id": "5521992131894@s.whatsapp.net",
+    "name": "Priscila Biohype",
+    "lid": "80272972353774@lid"
+  },
+  {
+    "id": "5511989661486@s.whatsapp.net",
+    "name": "Jenny Amiga L",
+    "lid": "186878422696167@lid"
+  },
+  {
+    "id": "5511968325398@s.whatsapp.net",
+    "name": "Lene ",
+    "lid": "211273870532779@lid"
+  },
+  {
+    "id": "5511998335676@s.whatsapp.net",
+    "name": "Claudio e Daniela Cliente",
+    "lid": "258265090887897@lid"
+  },
+  {
+    "id": "5511987071414@s.whatsapp.net",
+    "name": "Yuri Michelle",
+    "lid": "224953442017500@lid"
+  },
+  {
+    "id": "5522997048482@s.whatsapp.net",
+    "name": "Angelina Maciel Cliente",
+    "lid": "127440387059742@lid"
+  },
+  {
+    "id": "5513997038771@s.whatsapp.net",
+    "name": "Estela Biohype",
+    "lid": "162800819265677@lid"
+  },
+  {
+    "id": "5511991817866@s.whatsapp.net",
+    "name": "Renata Gerente",
+    "lid": "227229590151351@lid"
+  },
+  {
+    "id": "5511976296190@s.whatsapp.net",
+    "name": "tsushi  japonês Ferraz",
+    "lid": "248640236986530@lid"
+  },
+  {
+    "id": "5511966604883@s.whatsapp.net",
+    "name": "Julia Modas Moda Fitnes",
+    "lid": "105905404252406@lid"
+  },
+  {
+    "id": "5511954935373@s.whatsapp.net",
+    "name": "‪954935373‬",
+    "lid": "11712778510434@lid"
+  },
+  {
+    "id": "553499076032@s.whatsapp.net",
+    "name": "Cliente Bn 3- 34",
+    "lid": "181381451759858@lid"
+  },
+  {
+    "id": "5522998679050@s.whatsapp.net",
+    "name": "Valeria Braga Cliente",
+    "lid": "261387548909804@lid"
+  },
+  {
+    "id": "5511943726582@s.whatsapp.net",
+    "name": "Philipe  Paula Pinto Cliente",
+    "lid": "16668868796670@lid"
+  },
+  {
+    "id": "5511951253265@s.whatsapp.net",
+    "name": "Nova Maq",
+    "lid": "144757712007211@lid"
+  },
+  {
+    "id": "5511978880965@s.whatsapp.net",
+    "name": "Farol Audi 1",
+    "lid": "235896985096212@lid"
+  },
+  {
+    "id": "553196576072@s.whatsapp.net",
+    "name": "Bic",
+    "lid": "182944148762833@lid"
+  },
+  {
+    "id": "5519982556513@s.whatsapp.net",
+    "name": "Luciane Piracicaba",
+    "lid": "141751184535752@lid"
+  },
+  {
+    "id": "5511995737011@s.whatsapp.net",
+    "name": "Casa Fabio Indaia 400$",
+    "lid": "85165057507450@lid"
+  },
+  {
+    "id": "554691243995@s.whatsapp.net",
+    "name": "Nelcy Cliente",
+    "lid": "120143254413385@lid"
+  },
+  {
+    "id": "553388250609@s.whatsapp.net",
+    "name": "Jhennes Gonçalves Cliente Cargo",
+    "lid": "99841178919093@lid"
+  },
+  {
+    "id": "5511988235883@s.whatsapp.net",
+    "name": "Fernanda Claro",
+    "lid": "241050878738494@lid"
+  },
+  {
+    "id": "5511958580620@s.whatsapp.net",
+    "name": "Michila Box C35",
+    "lid": "45114504269944@lid"
+  },
+  {
+    "id": "553496434807@s.whatsapp.net",
+    "name": "Tudo no tempo de Deus Cliente",
+    "lid": "4183801487360@lid"
+  },
+  {
+    "id": "553285010837@s.whatsapp.net",
+    "name": "Clínica  Mansur",
+    "lid": "204616788647938@lid"
+  },
+  {
+    "id": "5511983693691@s.whatsapp.net",
+    "name": "Summer Beach",
+    "lid": "90744622735457@lid"
+  },
+  {
+    "id": "554199926810@s.whatsapp.net",
+    "name": "Andre Cliente 41",
+    "lid": "179108961087492@lid"
+  },
+  {
+    "id": "554784291115@s.whatsapp.net",
+    "name": "Simone Vieira",
+    "lid": "153446346969154@lid"
+  },
+  {
+    "id": "5522998440340@s.whatsapp.net",
+    "name": "Márcia Cristina Cliente",
+    "lid": "8392751984800@lid"
+  },
+  {
+    "id": "5511981889122@s.whatsapp.net",
+    "name": "Lava",
+    "lid": "234020034064391@lid"
+  },
+  {
+    "id": "5511969552838@s.whatsapp.net",
+    "name": "Rodrigo Favero",
+    "lid": "179864791470172@lid"
+  },
+  {
+    "id": "5511959916582@s.whatsapp.net",
+    "name": "Rodrigo Bike",
+    "lid": "258475645001983@lid"
+  },
+  {
+    "id": "558598155652@s.whatsapp.net",
+    "name": "MIGUEL Biohype",
+    "lid": "255211419472065@lid"
+  },
+  {
+    "id": "5511940163426@s.whatsapp.net",
+    "name": "Síndico Wesley",
+    "lid": "148983959830670@lid"
+  },
+  {
+    "id": "5511986934328@s.whatsapp.net",
+    "name": "Pousada Solaris Una",
+    "lid": "185834812735710@lid"
+  },
+  {
+    "id": "557781257849@s.whatsapp.net",
+    "name": "Isaque Oliveira Cliente Cargo",
+    "lid": "134127600820316@lid"
+  },
+  {
+    "id": "554688053992@s.whatsapp.net",
+    "name": "Lucas Cliente 46",
+    "lid": "55490994286740@lid"
+  },
+  {
+    "id": "5511966608592@s.whatsapp.net",
+    "name": "Alex Terreno",
+    "lid": "28733515776240@lid"
+  },
+  {
+    "id": "554299610917@s.whatsapp.net",
+    "name": "Jairo Cliente",
+    "lid": "17059710775468@lid"
+  },
+  {
+    "id": "5511994210409@s.whatsapp.net",
+    "name": "Bruno Alexandre",
+    "lid": "59068752388163@lid"
+  },
+  {
+    "id": "5511985591643@s.whatsapp.net",
+    "name": "Everton Lalamove",
+    "lid": "252393837064426@lid"
+  },
+  {
+    "id": "5511977318549@s.whatsapp.net",
+    "name": "Vitão",
+    "lid": "197538481238027@lid"
+  },
+  {
+    "id": "5511983040792@s.whatsapp.net",
+    "name": "Adrielle Estoque",
+    "lid": "221010594906221@lid"
+  },
+  {
+    "id": "556181548093@s.whatsapp.net",
+    "name": "Diego Guedes Casa",
+    "lid": "224553842258130@lid"
+  },
+  {
+    "id": "5511987950936@s.whatsapp.net",
+    "name": "Ap Floriano",
+    "lid": "85328266305712@lid"
+  },
+  {
+    "id": "5511964301789@s.whatsapp.net",
+    "name": "Igor Gb",
+    "lid": "261932992991338@lid"
+  },
+  {
+    "id": "5511983071354@s.whatsapp.net",
+    "name": "Marcelo Decosificador",
+    "lid": "187814641692771@lid"
+  },
+  {
+    "id": "5511943992959@s.whatsapp.net",
+    "name": "Gessé Rodrigues",
+    "lid": "124060247814294@lid"
+  },
+  {
+    "id": "5511949689863@s.whatsapp.net",
+    "name": "Pedro Cliente Dh",
+    "lid": "126972202107122@lid"
+  },
+  {
+    "id": "555186363813@s.whatsapp.net",
+    "name": "Cliente Bb 04- 51",
+    "lid": "153773150310494@lid"
+  },
+  {
+    "id": "5511958507114@s.whatsapp.net",
+    "name": "Diego Alves",
+    "lid": "272859909902380@lid"
+  },
+  {
+    "id": "554198239551@s.whatsapp.net",
+    "name": "Whaticket ML Suporte",
+    "lid": "91835494060050@lid"
+  },
+  {
+    "id": "5511975522327@s.whatsapp.net",
+    "name": "Maiatexx Cordao",
+    "lid": "202529384194192@lid"
+  },
+  {
+    "id": "5511950924889@s.whatsapp.net",
+    "name": "Ba",
+    "lid": "248769253781744@lid"
+  },
+  {
+    "id": "5511969999909@s.whatsapp.net",
+    "name": "Rami Fornecedor",
+    "lid": "37512613478459@lid"
+  },
+  {
+    "id": "5511975016221@s.whatsapp.net",
+    "name": "Maicon Vereadore",
+    "lid": "67276518781061@lid"
+  },
+  {
+    "id": "5511994234065@s.whatsapp.net",
+    "name": "Mudanca Standard",
+    "lid": "11849814819053@lid"
+  },
+  {
+    "id": "5519996091304@s.whatsapp.net",
+    "name": "Olivar Basílio Cliente",
+    "lid": "167778703143055@lid"
+  },
+  {
+    "id": "555198503233@s.whatsapp.net",
+    "name": "… Cliente",
+    "lid": "12790999855256@lid"
+  },
+  {
+    "id": "5511968151601@s.whatsapp.net",
+    "name": "Adriel pontes",
+    "lid": "75445445890057@lid"
+  },
+  {
+    "id": "5511983631374@s.whatsapp.net",
+    "name": "Holanda",
+    "lid": "76373225935001@lid"
+  },
+  {
+    "id": "5511997637642@s.whatsapp.net",
+    "name": "Tec Vivo Igor",
+    "lid": "170750770151674@lid"
+  },
+  {
+    "id": "5511996490365@s.whatsapp.net",
+    "name": "Juliana Corina DP Conteudo",
+    "lid": "255533474938943@lid"
+  },
+  {
+    "id": "5513974042266@s.whatsapp.net",
+    "name": "Amaral MC",
+    "lid": "226357745336495@lid"
+  },
+  {
+    "id": "5518997996217@s.whatsapp.net",
+    "name": "Sueli Santos Cliente",
+    "lid": "254210675310846@lid"
+  },
+  {
+    "id": "5511952232454@s.whatsapp.net",
+    "name": "Sushi Guaianazes",
+    "lid": "10303811121344@lid"
+  },
+  {
+    "id": "5511981907709@s.whatsapp.net",
+    "name": "Edmilson Carreto",
+    "lid": "104634110709800@lid"
+  },
+  {
+    "id": "5511943469185@s.whatsapp.net",
+    "name": "Fornecedor Jeans Feminino",
+    "lid": "131855546351743@lid"
+  },
+  {
+    "id": "5511990260712@s.whatsapp.net",
+    "name": "Marrok Modas Fornecedor",
+    "lid": "87664711749706@lid"
+  },
+  {
+    "id": "5511987572369@s.whatsapp.net",
+    "name": "Pomba",
+    "lid": "228135794684022@lid"
+  },
+  {
+    "id": "5514996504955@s.whatsapp.net",
+    "name": "Paty Cliente",
+    "lid": "81681906167809@lid"
+  },
+  {
+    "id": "557799508614@s.whatsapp.net",
+    "name": "Rebeca Rifa Pg",
+    "lid": "77309730136207@lid"
+  },
+  {
+    "id": "5511947480625@s.whatsapp.net",
+    "name": "Allan",
+    "lid": "55594190946540@lid"
+  },
+  {
+    "id": "5511967021458@s.whatsapp.net",
+    "name": "Alexandre Biohype",
+    "lid": "4668713341162@lid"
+  },
+  {
+    "id": "5511989243507@s.whatsapp.net",
+    "name": "Tchesco",
+    "lid": "233212580233446@lid"
+  },
+  {
+    "id": "5511975325083@s.whatsapp.net",
+    "name": "Leandro",
+    "lid": "74462032580729@lid"
+  },
+  {
+    "id": "5511947452129@s.whatsapp.net",
+    "name": "Studio Fotos",
+    "lid": "275161559339025@lid"
+  },
+  {
+    "id": "5511991932077@s.whatsapp.net",
+    "name": "Renata",
+    "lid": "133113971757301@lid"
+  },
+  {
+    "id": "5511948358828@s.whatsapp.net",
+    "name": "2d Modas",
+    "lid": "73693149532165@lid"
+  },
+  {
+    "id": "5511977889888@s.whatsapp.net",
+    "name": "Fornecedor Bolsas LV",
+    "lid": "75359580114967@lid"
+  },
+  {
+    "id": "5511959419396@s.whatsapp.net",
+    "name": "Elias Ze Aguia Uber",
+    "lid": "192135412359325@lid"
+  },
+  {
+    "id": "5511987413031@s.whatsapp.net",
+    "name": "Sthefani",
+    "lid": "246260573466774@lid"
+  },
+  {
+    "id": "5518997011912@s.whatsapp.net",
+    "name": "Adalberto Henrique Cliente",
+    "lid": "115986061619276@lid"
+  },
+  {
+    "id": "5511949943363@s.whatsapp.net",
+    "name": "Gustavo Iphone 13",
+    "lid": "29704128073869@lid"
+  },
+  {
+    "id": "5511954688169@s.whatsapp.net",
+    "name": "Gabis",
+    "lid": "264595805593679@lid"
+  },
+  {
+    "id": "556196165761@s.whatsapp.net",
+    "name": "Talita Guedes",
+    "lid": "74736793063640@lid"
+  },
+  {
+    "id": "554989047116@s.whatsapp.net",
+    "name": "⠀sul Cliente",
+    "lid": "213193871864008@lid"
+  },
+  {
+    "id": "5511972820026@s.whatsapp.net",
+    "name": "Milena Rodrigues",
+    "lid": "195528436494394@lid"
+  },
+  {
+    "id": "5511979872015@s.whatsapp.net",
+    "name": "Obg Girls Fornecedor",
+    "lid": "175093049254072@lid"
+  },
+  {
+    "id": "5515981058316@s.whatsapp.net",
+    "name": "Cah Cliente",
+    "lid": "58793991864334@lid"
+  },
+  {
+    "id": "5511985704911@s.whatsapp.net",
+    "name": "Monica",
+    "lid": "183816396214498@lid"
+  },
+  {
+    "id": "5511957873836@s.whatsapp.net",
+    "name": "‪957873836‬",
+    "lid": "22832130084884@lid"
+  },
+  {
+    "id": "554691063285@s.whatsapp.net",
+    "name": "Fabricio Cliente",
+    "lid": "86187326890032@lid"
+  },
+  {
+    "id": "5511946617096@s.whatsapp.net",
+    "name": "Confecçoes Rose",
+    "lid": "158578849644701@lid"
+  },
+  {
+    "id": "5511967682996@s.whatsapp.net",
+    "name": "Grafica",
+    "lid": "9710937878712@lid"
+  },
+  {
+    "id": "554797813084@s.whatsapp.net",
+    "name": "Gabriel cliente  Dh Store",
+    "lid": "185491248963725@lid"
+  },
+  {
+    "id": "554197225570@s.whatsapp.net",
+    "name": "Rosimeri  M S Rosa Cliente",
+    "lid": "102808732852298@lid"
+  },
+  {
+    "id": "5511960639809@s.whatsapp.net",
+    "name": "Desbloq Ipho",
+    "lid": "234445252624458@lid"
+  },
+  {
+    "id": "5519987524067@s.whatsapp.net",
+    "name": "Mah Reis Cliente",
+    "lid": "25799918915760@lid"
+  },
+  {
+    "id": "553298550204@s.whatsapp.net",
+    "name": "Renilda Lucio Cliente",
+    "lid": "90130291405033@lid"
+  },
+  {
+    "id": "5511951293534@s.whatsapp.net",
+    "name": "Gui Henrique",
+    "lid": "60743739285658@lid"
+  },
+  {
+    "id": "553798261607@s.whatsapp.net",
+    "name": "Rodrigo Biohype",
+    "lid": "273267378114596@lid"
+  },
+  {
+    "id": "5511959604020@s.whatsapp.net",
+    "name": "Felip Silva",
+    "lid": "36056334385220@lid"
+  },
+  {
+    "id": "5511963134865@s.whatsapp.net",
+    "name": "Torneirass",
+    "lid": "94081359339579@lid"
+  },
+  {
+    "id": "5511915791338@s.whatsapp.net",
+    "name": "marciasoaressilva005 Cliente",
+    "lid": "81106565115980@lid"
+  },
+  {
+    "id": "5511912876539@s.whatsapp.net",
+    "name": "Suporte Tracken São Paulo",
+    "lid": "198530668978233@lid"
+  },
+  {
+    "id": "5511971092347@s.whatsapp.net",
+    "name": "Aricanduva Mudanças",
+    "lid": "60593482498106@lid"
+  },
+  {
+    "id": "5511949431997@s.whatsapp.net",
+    "name": "Francisco Junior",
+    "lid": "130911140106289@lid"
+  },
+  {
+    "id": "5511971980296@s.whatsapp.net",
+    "name": "Professor",
+    "lid": "168787936550995@lid"
+  },
+  {
+    "id": "5511962826624@s.whatsapp.net",
+    "name": "Elisangela Estampa ",
+    "lid": "134707404665042@lid"
+  },
+  {
+    "id": "554298428888@s.whatsapp.net",
+    "name": "Pedro Rodrigues Cliente",
+    "lid": "249760988549234@lid"
+  },
+  {
+    "id": "5511972210033@s.whatsapp.net",
+    "name": "Imobiliaria Ap Aricanduva",
+    "lid": "19207261536419@lid"
+  },
+  {
+    "id": "5511940829590@s.whatsapp.net",
+    "name": "Leh Cell",
+    "lid": "79087729131696@lid"
+  },
+  {
+    "id": "553186409141@s.whatsapp.net",
+    "name": "Sangue Azul Cliente",
+    "lid": "148571626193027@lid"
+  },
+  {
+    "id": "5511991572177@s.whatsapp.net",
+    "name": "Kamila",
+    "lid": "214194431492109@lid"
+  },
+  {
+    "id": "5511957783465@s.whatsapp.net",
+    "name": "Dani_Alves Rogerio",
+    "lid": "201429889319159@lid"
+  },
+  {
+    "id": "5511961194719@s.whatsapp.net",
+    "name": "Dada",
+    "lid": "202082556629151@lid"
+  },
+  {
+    "id": "5511987973613@s.whatsapp.net",
+    "name": "Ani",
+    "lid": "95034758172818@lid"
+  },
+  {
+    "id": "5521964399256@s.whatsapp.net",
+    "name": "Thiago Cliente 21",
+    "lid": "97027639779461@lid"
+  },
+  {
+    "id": "5511993294354@s.whatsapp.net",
+    "name": "Henrique 👓",
+    "lid": "8886337712249@lid"
+  },
+  {
+    "id": "5511993713551@s.whatsapp.net",
+    "name": "Calça Adida",
+    "lid": "131185648889925@lid"
+  },
+  {
+    "id": "5521980105718@s.whatsapp.net",
+    "name": "elessandro Biohype",
+    "lid": "113258556088320@lid"
+  },
+  {
+    "id": "5511989504575@s.whatsapp.net",
+    "name": "Vini",
+    "lid": "233474522910876@lid"
+  },
+  {
+    "id": "5522998681223@s.whatsapp.net",
+    "name": "Game Stick Produtor",
+    "lid": "142403969261638@lid"
+  },
+  {
+    "id": "5511953965301@s.whatsapp.net",
+    "name": "Pantalona Duna Fornecedor",
+    "lid": "207193718653111@lid"
+  },
+  {
+    "id": "554488294814@s.whatsapp.net",
+    "name": "Joana Alves De Souza Cliente",
+    "lid": "59652918259911@lid"
+  },
+  {
+    "id": "553488274114@s.whatsapp.net",
+    "name": "Marinei Cliente",
+    "lid": "120744432402481@lid"
+  },
+  {
+    "id": "5511976622740@s.whatsapp.net",
+    "name": "Bruna Cad Shein",
+    "lid": "71550095069378@lid"
+  },
+  {
+    "id": "5516992399255@s.whatsapp.net",
+    "name": "Noiéli Tavares Cliente",
+    "lid": "165012828061784@lid"
+  },
+  {
+    "id": "5511960125657@s.whatsapp.net",
+    "name": "Oliver Fotos",
+    "lid": "4161823359126@lid"
+  },
+  {
+    "id": "5511978260703@s.whatsapp.net",
+    "name": "Marcio",
+    "lid": "198015558152277@lid"
+  },
+  {
+    "id": "5511942096115@s.whatsapp.net",
+    "name": "Regis Imobi",
+    "lid": "243331472842861@lid"
+  },
+  {
+    "id": "5511961290557@s.whatsapp.net",
+    "name": "Jm Modas  Fornecedor",
+    "lid": "23888675237963@lid"
+  },
+  {
+    "id": "5511914879222@s.whatsapp.net",
+    "name": "Bia Cute",
+    "lid": "254644987154633@lid"
+  },
+  {
+    "id": "5511946552423@s.whatsapp.net",
+    "name": "Confecçoes Vagner",
+    "lid": "46841014026320@lid"
+  },
+  {
+    "id": "5511953119153@s.whatsapp.net",
+    "name": "Nana",
+    "lid": "251981486620747@lid"
+  },
+  {
+    "id": "5511975113845@s.whatsapp.net",
+    "name": "Casa Esquina",
+    "lid": "1086760980714@lid"
+  },
+  {
+    "id": "553193391003@s.whatsapp.net",
+    "name": "Nilda Castro Cliente",
+    "lid": "115495999168740@lid"
+  },
+  {
+    "id": "5511964258427@s.whatsapp.net",
+    "name": "Amandinha",
+    "lid": "76661609463851@lid"
+  },
+  {
+    "id": "5511949091375@s.whatsapp.net",
+    "name": "Dema Variedades Cliente",
+    "lid": "97165162614833@lid"
+  },
+  {
+    "id": "5511996179416@s.whatsapp.net",
+    "name": "Cristiane Biohype",
+    "lid": "5622313525283@lid"
+  },
+  {
+    "id": "5516982385864@s.whatsapp.net",
+    "name": "Francisca Batista Cliente",
+    "lid": "152509993730152@lid"
+  },
+  {
+    "id": "5511987071379@s.whatsapp.net",
+    "name": "Oficina Grazy",
+    "lid": "68221478678763@lid"
+  },
+  {
+    "id": "5512988792905@s.whatsapp.net",
+    "name": "Listzap",
+    "lid": "61328509145328@lid"
+  },
+  {
+    "id": "554892067457@s.whatsapp.net",
+    "name": "Loods Company Cliente",
+    "lid": "202782837629103@lid"
+  },
+  {
+    "id": "5516991155753@s.whatsapp.net",
+    "name": "Rosangela Cliente",
+    "lid": "220069896396802@lid"
+  },
+  {
+    "id": "5511959360290@s.whatsapp.net",
+    "name": "Farahia Cargo",
+    "lid": "255129815097429@lid"
+  },
+  {
+    "id": "5511981538052@s.whatsapp.net",
+    "name": "Bravo Cargo",
+    "lid": "3887029297168@lid"
+  },
+  {
+    "id": "5511940232742@s.whatsapp.net",
+    "name": "Guilherme Das Carne",
+    "lid": "240999372705949@lid"
+  },
+  {
+    "id": "555198137822@s.whatsapp.net",
+    "name": "Amauri Biohype",
+    "lid": "76325880631344@lid"
+  },
+  {
+    "id": "554384478317@s.whatsapp.net",
+    "name": "Cliente BN",
+    "lid": "212575228817622@lid"
+  },
+  {
+    "id": "5511988717749@s.whatsapp.net",
+    "name": "Imobiliaria Viver Bem",
+    "lid": "209938034995335@lid"
+  },
+  {
+    "id": "5511985333541@s.whatsapp.net",
+    "name": "Vitor 🚴🏻",
+    "lid": "100051414155310@lid"
+  },
+  {
+    "id": "5517996276458@s.whatsapp.net",
+    "name": "Jonas",
+    "lid": "241515104337998@lid"
+  },
+  {
+    "id": "5513988395366@s.whatsapp.net",
+    "name": "Ana Cliente",
+    "lid": "82150493827237@lid"
+  },
+  {
+    "id": "554799525403@s.whatsapp.net",
+    "name": "Bruno Cliente",
+    "lid": "52334310740081@lid"
+  },
+  {
+    "id": "5511982134921@s.whatsapp.net",
+    "name": "Matheus Primo",
+    "lid": "127667953209560@lid"
+  },
+  {
+    "id": "5513982075169@s.whatsapp.net",
+    "name": "Pedro",
+    "lid": "103977333043304@lid"
+  },
+  {
+    "id": "557798351807@s.whatsapp.net",
+    "name": "Rodrigo Courino Cliente",
+    "lid": "256031624032441@lid"
+  },
+  {
+    "id": "553196402457@s.whatsapp.net",
+    "name": "Corolina N. F Cangu",
+    "lid": "2284956176416@lid"
+  },
+  {
+    "id": "5511958697580@s.whatsapp.net",
+    "name": "Jhon Lenon",
+    "lid": "125498961178760@lid"
+  },
+  {
+    "id": "5511940796826@s.whatsapp.net",
+    "name": "PORTARIA FLORIANO PEIXOTO",
+    "lid": "252123254096079@lid"
+  },
+  {
+    "id": "5511963508613@s.whatsapp.net",
+    "name": "Leandro Personal",
+    "lid": "126173371695199@lid"
+  },
+  {
+    "id": "5511944555541@s.whatsapp.net",
+    "name": "Buchecha",
+    "lid": "263092600573982@lid"
+  },
+  {
+    "id": "5522992427796@s.whatsapp.net",
+    "name": "Gleice Biohype",
+    "lid": "271304628432945@lid"
+  },
+  {
+    "id": "559891249210@s.whatsapp.net",
+    "name": "Jose Biohype",
+    "lid": "81119148023907@lid"
+  },
+  {
+    "id": "5511985706600@s.whatsapp.net",
+    "name": "Volante Couro",
+    "lid": "15535064535163@lid"
+  },
+  {
+    "id": "5511971694445@s.whatsapp.net",
+    "name": "Raquel Andrade",
+    "lid": "127775327424698@lid"
+  },
+  {
+    "id": "5511913088319@s.whatsapp.net",
+    "name": "Sebastião Cliente",
+    "lid": "204548203380947@lid"
+  },
+  {
+    "id": "5511988214158@s.whatsapp.net",
+    "name": "Felipe Viado",
+    "lid": "156083440091247@lid"
+  },
+  {
+    "id": "5511947747706@s.whatsapp.net",
+    "name": "Ari",
+    "lid": "132796160975009@lid"
+  },
+  {
+    "id": "5511959972674@s.whatsapp.net",
+    "name": "Bianca J.",
+    "lid": "30898145783891@lid"
+  },
+  {
+    "id": "553491633578@s.whatsapp.net",
+    "name": "Artes E Vestuário Cliente",
+    "lid": "277403515527316@lid"
+  },
+  {
+    "id": "5512996763830@s.whatsapp.net",
+    "name": "Mario Paizao",
+    "lid": "259510614626335@lid"
+  },
+  {
+    "id": "5513991217582@s.whatsapp.net",
+    "name": "💥 cliente",
+    "lid": "238542651433180@lid"
+  },
+  {
+    "id": "5511940003100@s.whatsapp.net",
+    "name": "Eliseu Moveis",
+    "lid": "106206085513423@lid"
+  },
+  {
+    "id": "5511947211057@s.whatsapp.net",
+    "name": "Prateleiraaaa",
+    "lid": "103856688107668@lid"
+  },
+  {
+    "id": "5511951010490@s.whatsapp.net",
+    "name": "Dimas",
+    "lid": "125271462142015@lid"
+  },
+  {
+    "id": "5511959793535@s.whatsapp.net",
+    "name": "Filipe Miranda",
+    "lid": "242760225431725@lid"
+  },
+  {
+    "id": "5511959437510@s.whatsapp.net",
+    "name": "Rafaela Cargo China",
+    "lid": "123252743651577@lid"
+  },
+  {
+    "id": "5511959096708@s.whatsapp.net",
+    "name": "Magali Modas",
+    "lid": "95696283816027@lid"
+  },
+  {
+    "id": "5511962820102@s.whatsapp.net",
+    "name": "Odontoelisoficial",
+    "lid": "8336548315218@lid"
+  },
+  {
+    "id": "5511964583772@s.whatsapp.net",
+    "name": "Jessica Espuma Flocada",
+    "lid": "94120030810295@lid"
+  },
+  {
+    "id": "5511997602679@s.whatsapp.net",
+    "name": "Daniela Prado",
+    "lid": "9917146611893@lid"
+  },
+  {
+    "id": "5511949741785@s.whatsapp.net",
+    "name": "Erica",
+    "lid": "167005609021486@lid"
+  },
+  {
+    "id": "5512982575255@s.whatsapp.net",
+    "name": "Clodoaldo Biohype",
+    "lid": "105338435018922@lid"
+  },
+  {
+    "id": "5522997770783@s.whatsapp.net",
+    "name": "🅂🄾🅄🅉🄰🔨🪛 Cliente",
+    "lid": "72387664031990@lid"
+  },
+  {
+    "id": "5511991503073@s.whatsapp.net",
+    "name": "Isa Trampo",
+    "lid": "114779091935420@lid"
+  },
+  {
+    "id": "5511910231716@s.whatsapp.net",
+    "name": "Hugo Fachada",
+    "lid": "275208787202135@lid"
+  },
+  {
+    "id": "5519978165998@s.whatsapp.net",
+    "name": "Robson Santos Cliente",
+    "lid": "175737680207882@lid"
+  },
+  {
+    "id": "5519986070545@s.whatsapp.net",
+    "name": "Inocencia Camargo Cliente",
+    "lid": "171996310671564@lid"
+  },
+  {
+    "id": "5511969395038@s.whatsapp.net",
+    "name": "mpaulaoliveira69@gmail.co Cliente",
+    "lid": "70016640766043@lid"
+  },
+  {
+    "id": "5511969070149@s.whatsapp.net",
+    "name": "Black_Vitão",
+    "lid": "20951689367571@lid"
+  },
+  {
+    "id": "5511953936281@s.whatsapp.net",
+    "name": "Matheus Gm",
+    "lid": "66146824880282@lid"
+  },
+  {
+    "id": "553284590647@s.whatsapp.net",
+    "name": "Oneida Cliente",
+    "lid": "155830003462349@lid"
+  },
+  {
+    "id": "553188964609@s.whatsapp.net",
+    "name": "Ana Cristina Cliente",
+    "lid": "163629798273036@lid"
+  },
+  {
+    "id": "554491126853@s.whatsapp.net",
+    "name": "Diego Rodrigues Cliente",
+    "lid": "30885546066088@lid"
+  },
+  {
+    "id": "5511942919807@s.whatsapp.net",
+    "name": "Raphael M.",
+    "lid": "128629992386811@lid"
+  },
+  {
+    "id": "5511985331515@s.whatsapp.net",
+    "name": "Grazi Iphone Red",
+    "lid": "80286310265037@lid"
+  },
+  {
+    "id": "5511954944900@s.whatsapp.net",
+    "name": "Loja 200",
+    "lid": "128866232352987@lid"
+  },
+  {
+    "id": "556391217302@s.whatsapp.net",
+    "name": "Carlos Biohype",
+    "lid": "177258283143226@lid"
+  },
+  {
+    "id": "556293186488@s.whatsapp.net",
+    "name": "Joao Cliente",
+    "lid": "19362098499813@lid"
+  },
+  {
+    "id": "558487763376@s.whatsapp.net",
+    "name": "Wigna Biohype",
+    "lid": "209169521053862@lid"
+  },
+  {
+    "id": "553588343007@s.whatsapp.net",
+    "name": "Adriana Cliente",
+    "lid": "177931905188058@lid"
+  },
+  {
+    "id": "5511971136974@s.whatsapp.net",
+    "name": "Bel Cliente",
+    "lid": "241111008284839@lid"
+  },
+  {
+    "id": "5511968590002@s.whatsapp.net",
+    "name": "Jaiminho",
+    "lid": "70437547540647@lid"
+  },
+  {
+    "id": "5511954662841@s.whatsapp.net",
+    "name": "Algaro Moveis",
+    "lid": "113580561190965@lid"
+  },
+  {
+    "id": "5511999007781@s.whatsapp.net",
+    "name": "Amiga Ray Site",
+    "lid": "127509140111539@lid"
+  },
+  {
+    "id": "5511982109845@s.whatsapp.net",
+    "name": "Jefferson Oliveira",
+    "lid": "11390387507299@lid"
+  },
+  {
+    "id": "5511959378608@s.whatsapp.net",
+    "name": "Kevin Game Stick",
+    "lid": "105536020328585@lid"
+  },
+  {
+    "id": "5511960412331@s.whatsapp.net",
+    "name": "D&s Mudança",
+    "lid": "247811056631987@lid"
+  },
+  {
+    "id": "553592296108@s.whatsapp.net",
+    "name": "lucineudo Cliente",
+    "lid": "257281459535926@lid"
+  },
+  {
+    "id": "551133350237@s.whatsapp.net",
+    "name": "Bradesco Bia",
+    "lid": "262572909547668@lid"
+  },
+  {
+    "id": "554197341960@s.whatsapp.net",
+    "name": "Guilherme Biohype",
+    "lid": "248330898657526@lid"
+  },
+  {
+    "id": "5511941462727@s.whatsapp.net",
+    "name": "Jaqueline Etiquetas",
+    "lid": "111411602710682@lid"
+  },
+  {
+    "id": "5511964010903@s.whatsapp.net",
+    "name": "Casa Cleber Afonso",
+    "lid": "111360063094940@lid"
+  },
+  {
+    "id": "5511976969232@s.whatsapp.net",
+    "name": "Tio Du",
+    "lid": "224884521189575@lid"
+  },
+  {
+    "id": "5516991658505@s.whatsapp.net",
+    "name": "Dede Marteliho Cliente",
+    "lid": "276140828676282@lid"
+  },
+  {
+    "id": "5511943884634@s.whatsapp.net",
+    "name": "Tia Zelia",
+    "lid": "82549304987874@lid"
+  },
+  {
+    "id": "556192291707@s.whatsapp.net",
+    "name": "Cluadia Cliente Bone Nk",
+    "lid": "43782980509787@lid"
+  },
+  {
+    "id": "554497009774@s.whatsapp.net",
+    "name": "Barbosa Cliente",
+    "lid": "49778939428963@lid"
+  },
+  {
+    "id": "5511982011846@s.whatsapp.net",
+    "name": "Audi Q3 Preta",
+    "lid": "171352149520448@lid"
+  },
+  {
+    "id": "5511968328244@s.whatsapp.net",
+    "name": "Luana",
+    "lid": "208787134779587@lid"
+  },
+  {
+    "id": "5511957854965@s.whatsapp.net",
+    "name": "Magic Cargo",
+    "lid": "102104375001321@lid"
+  },
+  {
+    "id": "555384583613@s.whatsapp.net",
+    "name": "Alexandre ferreira Hype Closet",
+    "lid": "251766889254969@lid"
+  },
+  {
+    "id": "551146757672@s.whatsapp.net",
+    "name": "SPNET FIBRA",
+    "lid": "14165003526160@lid"
+  },
+  {
+    "id": "551128056486@s.whatsapp.net",
+    "name": "Ntv Coleta Mercado",
+    "lid": "72353086193902@lid"
+  },
+  {
+    "id": "5511958027279@s.whatsapp.net",
+    "name": "Jessica Oliver",
+    "lid": "174002513387597@lid"
+  },
+  {
+    "id": "554396595605@s.whatsapp.net",
+    "name": "Mariane izidoro",
+    "lid": "251706742968468@lid"
+  },
+  {
+    "id": "5511984948230@s.whatsapp.net",
+    "name": "Alvaro",
+    "lid": "212751288901670@lid"
+  },
+  {
+    "id": "5511947532873@s.whatsapp.net",
+    "name": "Neia Rf",
+    "lid": "69724650115207@lid"
+  },
+  {
+    "id": "556593339299@s.whatsapp.net",
+    "name": "Anderson Cliente 65",
+    "lid": "64622145106120@lid"
+  },
+  {
+    "id": "5511949184728@s.whatsapp.net",
+    "name": "Amandinha",
+    "lid": "132758143795250@lid"
+  },
+  {
+    "id": "5519982115626@s.whatsapp.net",
+    "name": "Albertino Cliente",
+    "lid": "102791536189608@lid"
+  },
+  {
+    "id": "5511947864357@s.whatsapp.net",
+    "name": "William Pontes",
+    "lid": "22497240084650@lid"
+  },
+  {
+    "id": "5511943492536@s.whatsapp.net",
+    "name": "Lucas Controladora",
+    "lid": "14113380016177@lid"
+  },
+  {
+    "id": "5511985045246@s.whatsapp.net",
+    "name": "Lan Aricanduva",
+    "lid": "192354422100073@lid"
+  },
+  {
+    "id": "5511953588730@s.whatsapp.net",
+    "name": "Pizzaria Chefe",
+    "lid": "119541959020545@lid"
+  },
+  {
+    "id": "5511958058016@s.whatsapp.net",
+    "name": "‪958058016‬",
+    "lid": "131345082798218@lid"
+  },
+  {
+    "id": "553488538717@s.whatsapp.net",
+    "name": "vangelasouza888 Cliente",
+    "lid": "14014545453254@lid"
+  },
+  {
+    "id": "5511952424789@s.whatsapp.net",
+    "name": "Hudson",
+    "lid": "123407312117896@lid"
+  },
+  {
+    "id": "5519982790594@s.whatsapp.net",
+    "name": "Bianca Araujo🧿🪬🍀",
+    "lid": "191534335045875@lid"
+  },
+  {
+    "id": "5511944556038@s.whatsapp.net",
+    "name": "Thamy",
+    "lid": "57543988658315@lid"
+  },
+  {
+    "id": "5511948806156@s.whatsapp.net",
+    "name": "Ygor Paz",
+    "lid": "82579487252705@lid"
+  }
+]
