@@ -1,0 +1,382 @@
+/* ═══════════════════════════════════════════════════════════════════════════
+   flowbuilder.css — Visual padrão Announcements/Tags
+   ═══════════════════════════════════════════════════════════════════════════ */
+
+/* ── Fonte global ── */
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300;0,9..40,400;0,9..40,500;0,9..40,600;0,9..40,700;0,9..40,800&family=JetBrains+Mono:wght@500;600;700&display=swap');
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+/* ── Reset base ── */
+.fb-root,
+.fb-root * {
+  font-family: 'DM Sans', system-ui, sans-serif;
+}
+
+/* ══ REACT FLOW — CANVAS ════════════════════════════════════════════════════ */
+
+.react-flow {
+  width: 100%;
+  height: 100%;
+}
+
+/* Fundo de pontos já controlado via prop, mas fallback aqui */
+.react-flow__background {
+  background-color: transparent;
+}
+
+/* ── Controles de zoom ── */
+.react-flow__controls {
+  border-radius: 10px !important;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.07) !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.25) !important;
+}
+
+.react-flow__controls-button {
+  background: #0f1929 !important;
+  border-bottom: 1px solid rgba(255,255,255,0.06) !important;
+  transition: background 0.16s ease;
+}
+
+.react-flow__controls-button:hover {
+  background: #1a2840 !important;
+}
+
+.react-flow__controls-button svg {
+  fill: #8fa4be !important;
+}
+
+/* ── MiniMap ── */
+.react-flow__minimap {
+  border-radius: 10px !important;
+  overflow: hidden;
+  border: 1px solid rgba(255,255,255,0.07) !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,0.25) !important;
+}
+
+/* ── Arestas / edges ── */
+.react-flow__edge-path {
+  stroke: #4d6478;
+  stroke-width: 2px;
+  transition: stroke 0.2s ease;
+}
+
+.react-flow__edge:hover .react-flow__edge-path,
+.react-flow__edge.selected .react-flow__edge-path {
+  stroke: #6366F1;
+  stroke-width: 2.5px;
+}
+
+.react-flow__edge.animated .react-flow__edge-path {
+  stroke-dasharray: 6 3;
+  animation: dashdraw 0.5s linear infinite;
+}
+
+@keyframes dashdraw {
+  from { stroke-dashoffset: 18; }
+  to   { stroke-dashoffset: 0; }
+}
+
+/* edge-line class */
+.edge-line .react-flow__edge-path {
+  stroke: #4d6478;
+}
+
+/* ── Handles (pontos de conexão) ── */
+.react-flow__handle {
+  width: 10px !important;
+  height: 10px !important;
+  border-radius: 50% !important;
+  background: #4d6478 !important;
+  border: 2px solid #0f1929 !important;
+  transition: background 0.18s, transform 0.18s;
+}
+
+.react-flow__handle:hover,
+.react-flow__handle-connecting {
+  background: #6366F1 !important;
+  transform: scale(1.25);
+}
+
+/* ── Connection line (preview ao arrastar) ── */
+.react-flow__connectionline path {
+  stroke: #9ca3af;
+  stroke-width: 2px;
+}
+
+/* ── Nós selecionados ── */
+.react-flow__node.selected .react-flow__node-default,
+.react-flow__node.selected > div {
+  outline: 2px solid #6366F1 !important;
+  outline-offset: 2px;
+}
+
+/* ── Scrollbar geral do canvas ── */
+.react-flow__pane,
+.react-flow__renderer {
+  scrollbar-width: thin;
+  scrollbar-color: rgba(100,116,139,0.3) transparent;
+}
+
+/* ══ SIDEBAR ════════════════════════════════════════════════════════════════ */
+
+/* Mantidas para compatibilidade com qualquer referência legada */
+.flowbuilder-sidebar {
+  width: 220px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border-right: 1px solid rgba(255,255,255,0.07);
+  background-color: #0a1420;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.flowbuilder-sidebar__top {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 12px 12px 8px;
+}
+
+.flowbuilder-sidebar__search {
+  flex: 1;
+  height: 34px;
+  padding: 0 10px 0 10px;
+  border-radius: 9px;
+  border: 1px solid rgba(255,255,255,0.12);
+  background: rgba(255,255,255,0.04);
+  color: #f0f4f8;
+  font-size: 12.5px;
+  font-family: 'DM Sans', sans-serif;
+  outline: none;
+  transition: border-color 0.18s;
+}
+
+.flowbuilder-sidebar__search:focus {
+  border-color: var(--fb-primary, #6366F1);
+}
+
+.flowbuilder-sidebar__search::placeholder {
+  color: #4d6478;
+}
+
+.flowbuilder-sidebar__lock {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  border: 1px solid rgba(255,255,255,0.10);
+  background: rgba(255,255,255,0.04);
+  color: #4d6478;
+  cursor: not-allowed;
+  font-size: 13px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.16s;
+}
+
+.flowbuilder-sidebar__section {
+  padding: 0 8px;
+  margin-bottom: 12px;
+}
+
+.flowbuilder-sidebar__title {
+  font-size: 9.5px;
+  font-weight: 700;
+  letter-spacing: 0.09em;
+  text-transform: uppercase;
+  color: #4d6478;
+  padding: 0 4px;
+  margin-bottom: 6px;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.flowbuilder-sidebar__grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 5px;
+}
+
+.flowbuilder-sidebar__chip {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 4px;
+  padding: 8px 6px;
+  border-radius: 10px;
+  border: 1px solid rgba(255,255,255,0.07);
+  background: rgba(255,255,255,0.04);
+  cursor: pointer;
+  transition: all 0.16s ease;
+  font-family: 'DM Sans', sans-serif;
+}
+
+.flowbuilder-sidebar__chip:hover:not(:disabled) {
+  background: rgba(255,255,255,0.08);
+  border-color: rgba(99,102,241,0.35);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 10px rgba(99,102,241,0.15);
+}
+
+.flowbuilder-sidebar__chip:active:not(:disabled) {
+  transform: translateY(0);
+}
+
+.flowbuilder-sidebar__chip:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+.flowbuilder-sidebar__chipIcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 26px;
+  height: 26px;
+}
+
+.flowbuilder-sidebar__chipLabel {
+  font-size: 10.5px;
+  font-weight: 600;
+  color: #8fa4be;
+  line-height: 1;
+  text-align: center;
+  font-family: 'DM Sans', sans-serif;
+}
+
+/* ══ FLOW CANVAS CONTAINER ══════════════════════════════════════════════════ */
+
+.flow-canvas-container {
+  flex: 1;
+  position: relative;
+  overflow: hidden;
+}
+
+/* ══ HEADER BAR (legado — mantido para compatibilidade) ══════════════════════ */
+
+.fb-headerbar {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 12px;
+}
+
+.fb-header-left {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.fb-header-subtitle {
+  font-size: 12.5px;
+  color: rgba(255,255,255,0.65);
+  font-family: 'DM Sans', sans-serif;
+}
+
+.fb-header-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.fb-header-btn {
+  height: 38px !important;
+  border-radius: 10px !important;
+  font-weight: 700 !important;
+  font-size: 13px !important;
+  font-family: 'DM Sans', sans-serif !important;
+  text-transform: none !important;
+}
+
+/* ══ WORKSPACE (legado) ══════════════════════════════════════════════════════ */
+
+.fb-workspace {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  position: relative;
+}
+
+/* ══ SCROLLBAR GLOBAL ════════════════════════════════════════════════════════ */
+
+::-webkit-scrollbar {
+  width: 4px;
+  height: 4px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(100,116,139,0.3);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(100,116,139,0.5);
+}
+
+/* ══ LIGHT MODE OVERRIDES ════════════════════════════════════════════════════ */
+
+[data-theme="light"] .flowbuilder-sidebar,
+.light-mode .flowbuilder-sidebar {
+  background-color: #ffffff;
+  border-right-color: #e3eaf2;
+}
+
+[data-theme="light"] .flowbuilder-sidebar__search,
+.light-mode .flowbuilder-sidebar__search {
+  background: rgba(0,0,0,0.018);
+  border-color: #dbe4ed;
+  color: #0d1b2a;
+}
+
+[data-theme="light"] .flowbuilder-sidebar__chip,
+.light-mode .flowbuilder-sidebar__chip {
+  background: rgba(0,0,0,0.035);
+  border-color: #e3eaf2;
+}
+
+[data-theme="light"] .flowbuilder-sidebar__chip:hover:not(:disabled),
+.light-mode .flowbuilder-sidebar__chip:hover:not(:disabled) {
+  background: rgba(0,0,0,0.065);
+}
+
+[data-theme="light"] .flowbuilder-sidebar__chipLabel,
+.light-mode .flowbuilder-sidebar__chipLabel {
+  color: #3d5166;
+}
+
+[data-theme="light"] .react-flow__controls-button,
+.light-mode .react-flow__controls-button {
+  background: #ffffff !important;
+  border-bottom-color: #e3eaf2 !important;
+}
+
+[data-theme="light"] .react-flow__controls-button:hover,
+.light-mode .react-flow__controls-button:hover {
+  background: #f5f8fc !important;
+}
+
+[data-theme="light"] .react-flow__controls-button svg,
+.light-mode .react-flow__controls-button svg {
+  fill: #3d5166 !important;
+}
+
+[data-theme="light"] .react-flow__edge-path,
+.light-mode .react-flow__edge-path {
+  stroke: #8fa0b0;
+}
+
+[data-theme="light"] .react-flow__handle,
+.light-mode .react-flow__handle {
+  background: #8fa0b0 !important;
+  border-color: #ffffff !important;
+}
