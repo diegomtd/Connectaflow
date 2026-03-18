@@ -78,7 +78,8 @@ const useStyles = makeStyles((theme) => {
       boxShadow: isDark
         ? "0 24px 60px rgba(0,0,0,0.55)"
         : "0 24px 60px rgba(15,23,42,0.18)",
-      overflow: "hidden",
+      display: "flex",
+      flexDirection: "column",
     },
 
     /* ── Cabeçalho limpo / corporativo ── */
@@ -557,8 +558,8 @@ const CampaignModal = ({
           }}
         >
           {({ values, errors, touched, isSubmitting }) => (
-            <Form>
-              <DialogContent className={classes.dialogContent}>
+            <Form style={{ display: "flex", flexDirection: "column", flex: "1 1 auto", overflow: "hidden" }}>
+              <DialogContent className={classes.dialogContent} style={{ overflowY: "auto", flex: "1 1 auto" }}>
 
                 {/* ── Configurações gerais ── */}
                 <Typography className={classes.sectionLabel}>
